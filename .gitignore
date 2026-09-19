@@ -1,0 +1,46 @@
+# Environment variables — NEVER commit these
+.env
+.env.local
+.env.production
+backend/.env
+frontend/.env
+frontend/.env.local
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/tsconfig.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+
+# Local source material and generated crawl output
+Data2.pdf
+data/raw/sdit/
+data/processed/crawled_knowledge_base.json

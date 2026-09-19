@@ -1,0 +1,283 @@
+[
+  {
+    "category": "college_info",
+    "subcategory": "history",
+    "title": "History of SDIT",
+    "content": "Shree Devi Institute of Technology (SDIT) was established in 2008 under the Shree Devi Education Trust, Mangaluru. The institution is located at Kenjar, Mangaluru - 574142, Karnataka. It is affiliated with Visvesvaraya Technological University (VTU), Belagavi, and recognized by AICTE (All India Council for Technical Education). SDIT has grown from a small technical institution into one of the prominent engineering colleges in Dakshina Kannada district. The college was founded with a vision to provide quality technical education to students from South Karnataka and beyond.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["history", "established", "founded", "background", "SDIT"]}
+  },
+  {
+    "category": "college_info",
+    "subcategory": "vision_mission",
+    "title": "Vision and Mission of SDIT",
+    "content": "Vision: To be a premier technical institution of national repute by imparting quality technical education, research, and innovation that transforms students into competent professionals and responsible global citizens.\n\nMission:\n1. To provide an excellent learning environment with state-of-the-art infrastructure.\n2. To promote research, innovation, and entrepreneurship among students and faculty.\n3. To develop industry-institute collaboration to enhance practical and professional skills.\n4. To instill ethical values, leadership qualities, and social responsibility.\n5. To achieve academic excellence through continuous improvement in teaching-learning processes.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in/about",
+    "metadata": {"keywords": ["vision", "mission", "goals", "objectives"]}
+  },
+  {
+    "category": "college_info",
+    "subcategory": "accreditation",
+    "title": "Accreditation and Affiliation",
+    "content": "SDIT holds the following accreditations and recognitions:\n- NAAC Accredited Institution (National Assessment and Accreditation Council)\n- Affiliated with Visvesvaraya Technological University (VTU), Belagavi\n- Recognized by AICTE (All India Council for Technical Education)\n- Institution's Innovation Council (IIC) registered — SDIT-IC2022200038\n- IEEE Student Branch active on campus\n- IQAC (Internal Quality Assurance Cell) established for continuous quality improvement",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["accreditation", "NAAC", "VTU", "AICTE", "affiliation", "recognition"]}
+  },
+  {
+    "category": "college_info",
+    "subcategory": "campus_overview",
+    "title": "Campus Overview and Facilities",
+    "content": "SDIT is located at Kenjar, Mangaluru - 574142. The campus spans a well-developed area with the following major facilities:\n\nAcademic Blocks: Multiple academic blocks housing classrooms, seminar halls, and faculty rooms for each department.\n\nLaboratories: Well-equipped labs for CSE (programming, networks, AI/ML), ECE (electronics, communication, embedded systems), ME (CAD/CAM, manufacturing), Civil (surveying, material testing), and other departments.\n\nLibrary: The central library has a large collection of books, journals, and digital resources. It has reading rooms and computer access.\n\nHostels: Separate hostel facilities for boys and girls on or near campus.\n\nCafeteria: On-campus cafeteria serving breakfast, lunch, snacks, and dinner.\n\nSports & Gym: Cricket ground, basketball court, volleyball court, badminton court, and a gymnasium.\n\nMedical Facility: A campus health centre for first-aid and basic medical assistance.\n\nAdministrative Block: Principal's office, HOD offices, examination section, accounts, and other administrative departments.\n\nAuditorium: A large auditorium for college events, seminars, and cultural programmes.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["campus", "facilities", "library", "hostel", "cafeteria", "sports", "lab"]}
+  },
+  {
+    "category": "college_info",
+    "subcategory": "contact",
+    "title": "Contact Information",
+    "content": "Shree Devi Institute of Technology\nAddress: Kenjar, Mangaluru - 574142, Karnataka, India\n\nGeneral Helpdesk:\n- Phone: +91 9353619812\n- Phone: +91 8310675858\n- Phone: +91 6363910295\n\nPrincipal: Dr. Manujesh B J\nVice Principal: Dr. Nethravathi P S\nHOD CSE: Ms. Nisha Coutinho\n\nEvent Coordinators (Tech-Bot):\n- Mr. Savan Shetty\n- Ms. Latha Santhosh\n- Mr. Vidwath\n\nIEEE Student Branch Chair: Ms. Ruth R Fernandes",
+    "source": "SDIT Official Poster",
+    "source_url": "https://www.sdit.ac.in/contact",
+    "metadata": {"keywords": ["contact", "phone", "address", "principal", "helpdesk"]}
+  },
+  {
+    "category": "departments",
+    "subcategory": "cse",
+    "title": "Department of Computer Science and Engineering (CSE)",
+    "content": "The Department of Computer Science and Engineering (CSE) is one of the flagship departments at SDIT. It offers a 4-year B.E. program with an intake of 60 students per year (subject to change).\n\nHead of Department: Ms. Nisha Coutinho\n\nThe department has excellent infrastructure including:\n- Programming laboratories (C, C++, Java, Python)\n- Networks and security lab\n- AI/ML and Data Science lab\n- Project lab\n- Software Engineering lab\n\nThe department is affiliated with VTU and follows the VTU curriculum. Students benefit from active industry collaborations, guest lectures, workshops, and placement drives.\n\nKey specialization areas: Artificial Intelligence, Machine Learning, Cybersecurity, Data Science, Cloud Computing, Full Stack Development, and Internet of Things.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in/departments/cse",
+    "metadata": {"keywords": ["CSE", "computer science", "engineering", "department", "HOD", "labs"]}
+  },
+  {
+    "category": "departments",
+    "subcategory": "ece",
+    "title": "Department of Electronics and Communication Engineering (ECE)",
+    "content": "The Department of Electronics and Communication Engineering (ECE) offers a 4-year B.E. program. The department prepares students for careers in electronics design, embedded systems, telecommunications, and signal processing.\n\nLaboratories include:\n- Basic Electronics Lab\n- Digital Electronics Lab\n- Communication Engineering Lab\n- Embedded Systems Lab\n- VLSI Design Lab\n- Microprocessors and Microcontrollers Lab\n\nThe department has faculty with expertise in areas such as signal processing, VLSI, embedded systems, RF communications, and IoT. Students regularly participate in national competitions and technical events.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in/departments/ece",
+    "metadata": {"keywords": ["ECE", "electronics", "communication", "department", "embedded", "VLSI"]}
+  },
+  {
+    "category": "departments",
+    "subcategory": "me",
+    "title": "Department of Mechanical Engineering (ME)",
+    "content": "The Department of Mechanical Engineering (ME) offers a 4-year B.E. program in Mechanical Engineering. The department focuses on design, manufacturing, thermodynamics, and industrial engineering.\n\nLaboratories include:\n- Workshop / Manufacturing Lab\n- CAD/CAM Lab\n- Fluid Mechanics Lab\n- Thermodynamics Lab\n- Material Testing Lab\n- Metrology Lab\n\nStudents gain exposure to modern manufacturing technologies, automation, and industry 4.0 concepts. The department has strong ties with local industries and organizes industrial visits regularly.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in/departments/me",
+    "metadata": {"keywords": ["ME", "mechanical", "engineering", "CAD", "manufacturing", "department"]}
+  },
+  {
+    "category": "departments",
+    "subcategory": "civil",
+    "title": "Department of Civil Engineering",
+    "content": "The Department of Civil Engineering offers a 4-year B.E. program. The department covers structural engineering, environmental engineering, geotechnical engineering, and transportation engineering.\n\nLaboratories include:\n- Surveying Lab\n- Structural Analysis Lab\n- Environmental Engineering Lab\n- Geotechnical Lab\n- Material Testing Lab\n\nStudents are involved in real-world projects and site visits as part of the curriculum.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in/departments/civil",
+    "metadata": {"keywords": ["civil", "engineering", "construction", "structural", "department"]}
+  },
+  {
+    "category": "courses",
+    "subcategory": "ug_programs",
+    "title": "Undergraduate Programs (UG) at SDIT",
+    "content": "SDIT offers the following undergraduate (B.E.) programs affiliated with VTU:\n\n1. B.E. in Computer Science and Engineering (CSE)\n   - Duration: 4 years (8 semesters)\n   - Intake: 60 seats\n   - Eligibility: 10+2 / PUC with Physics, Mathematics, Chemistry/Biology/Computer Science with minimum 45% (40% for SC/ST)\n\n2. B.E. in Electronics and Communication Engineering (ECE)\n   - Duration: 4 years (8 semesters)\n   - Intake: 60 seats\n   - Eligibility: Same as above\n\n3. B.E. in Mechanical Engineering (ME)\n   - Duration: 4 years (8 semesters)\n   - Eligibility: Same as above\n\n4. B.E. in Civil Engineering\n   - Duration: 4 years (8 semesters)\n   - Eligibility: Same as above\n\nAdmission is through KEA (Karnataka Examinations Authority) KCET counselling or CET-based merit, and Management Quota seats.\n\nAll programs are affiliated with Visvesvaraya Technological University (VTU), Belagavi.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in/admissions",
+    "metadata": {"keywords": ["UG", "undergraduate", "BE", "courses", "programs", "intake"]}
+  },
+  {
+    "category": "courses",
+    "subcategory": "pg_programs",
+    "title": "Postgraduate Programs (PG) at SDIT",
+    "content": "SDIT offers postgraduate (M.Tech) programs for eligible candidates:\n\n1. M.Tech in Computer Science and Engineering\n   - Duration: 2 years (4 semesters)\n   - Eligibility: B.E./B.Tech in CSE or related branch with minimum 50%\n   - Admission: Through PGCET (Karnataka) or GATE score\n\nContact the admissions office or visit the SDIT website for current intake figures and seat availability, as these can change each academic year.",
+    "source": "SDIT Official Website",
+    "source_url": "https://www.sdit.ac.in/admissions",
+    "metadata": {"keywords": ["PG", "postgraduate", "MTech", "masters", "GATE", "PGCET"]}
+  },
+  {
+    "category": "courses",
+    "subcategory": "syllabus_cse",
+    "title": "CSE Syllabus — Semester Structure (VTU)",
+    "content": "CSE B.E. program follows VTU's CBCS (Choice Based Credit System) curriculum:\n\nSemester 1 & 2 (Common to all branches):\n- Mathematics I & II\n- Engineering Physics / Engineering Chemistry\n- Basic Electrical Engineering\n- Elements of Mechanical Engineering\n- Computer Programming (C)\n- Engineering Drawing\n- Kannada / Constitution of India\n\nSemester 3 (CSE):\n- Discrete Mathematical Structures\n- Data Structures and Applications\n- Computer Organization\n- Analog and Digital Electronics\n- Object Oriented Programming with Java\n- Database Management Systems\n\nSemester 4 (CSE):\n- Design and Analysis of Algorithms\n- Microprocessors\n- Software Engineering\n- Computer Networks\n- Graph Theory\n- Operating Systems\n\nSemester 5 (CSE):\n- Automata Theory and Computability\n- Computer Graphics and Visualization\n- Information and Network Security\n- Compiler Design\n- Elective I (AI / Advanced Java / etc.)\n\nSemester 6 (CSE):\n- Machine Learning\n- Big Data Analytics\n- Web Technologies\n- Embedded Systems\n- Elective II\n\nSemester 7 & 8 (CSE):\n- Deep Learning / Cloud Computing\n- Internet of Things\n- Project Work (Major Project)\n- Internship\n- Open Electives\n\nNote: Exact subject codes and credits follow VTU's latest scheme. Always refer to VTU's official website (vtu.ac.in) for the authoritative syllabus.",
+    "source": "VTU Curriculum + SDIT Department",
+    "source_url": "https://vtu.ac.in",
+    "metadata": {"keywords": ["syllabus", "subjects", "semester", "CSE", "curriculum", "VTU"]}
+  },
+  {
+    "category": "admissions",
+    "subcategory": "procedure",
+    "title": "Admission Procedure at SDIT",
+    "content": "Admission to SDIT's undergraduate programs follows the Karnataka state admission process:\n\nStep 1 — Appear for KCET\nRegister and appear for Karnataka Common Entrance Test (KCET) conducted by Karnataka Examinations Authority (KEA). KCET tests Physics, Mathematics, and Chemistry/Biology.\n\nStep 2 — KEA Counselling\nBased on your KCET rank, participate in the KEA online counselling process. Select SDIT and your preferred branch during option entry.\n\nStep 3 — Document Verification\nCarry original documents for verification:\n- 10th and 12th / PUC marks cards\n- KCET rank card\n- Category certificate (if applicable)\n- Transfer Certificate\n- Migration Certificate\n- Income certificate (for scholarship)\n- Passport-size photographs\n- Aadhar card\n\nStep 4 — Fee Payment\nPay the admission fee at the college accounts department or through the designated online portal.\n\nStep 5 — Management Quota\nIf you were not allotted a seat through KEA, limited management quota seats are available. Contact the SDIT admissions office directly for details.\n\nFor NRI / NRI-sponsored seats, separate procedures apply. Contact the admissions office.",
+    "source": "SDIT Official Website + KEA",
+    "source_url": "https://www.sdit.ac.in/admissions",
+    "metadata": {"keywords": ["admission", "KCET", "KEA", "procedure", "documents", "counselling"]}
+  },
+  {
+    "category": "admissions",
+    "subcategory": "fees",
+    "title": "Fee Structure 2024-25",
+    "content": "The following is a general guide to fees at SDIT for the academic year 2024-25. Exact fees are fixed by the Fee Fixation Committee and may vary. Always confirm with the SDIT accounts department for the current year's fee.\n\nGovernment Quota (CET Seats) — B.E.:\n- Tuition Fee: As fixed by Karnataka Fee Fixation Committee\n- Approximate range: ₹45,000–₹75,000 per year (varies by category)\n\nManagement Quota — B.E.:\n- Higher than Government Quota\n- Contact admissions office for exact figures\n\nOther Fees (all students):\n- Examination Fee: As per VTU norms (paid per semester)\n- Library Fee: Included in institutional fee\n- Hostel Fee: Separate from tuition (see hostel section)\n- Transport Fee: Separate, based on route\n\nScholarship holders may receive fee waivers as per government scheme rules.\n\nNote: Fee structures are revised annually. Always verify with the SDIT accounts office before making payment decisions.",
+    "source": "SDIT Admissions Office",
+    "source_url": "https://www.sdit.ac.in/fee-structure",
+    "academic_year": "2024-25",
+    "metadata": {"keywords": ["fees", "fee structure", "tuition", "cost", "payment", "CET quota"]}
+  },
+  {
+    "category": "admissions",
+    "subcategory": "scholarships",
+    "title": "Scholarships Available at SDIT",
+    "content": "Students at SDIT can avail the following scholarships:\n\n1. Post Matric Scholarship (Karnataka Government)\n   - For SC/ST/OBC students\n   - Covers tuition fee and maintenance allowance\n   - Apply through the Karnataka Scholarship Portal (karepass.cgg.gov.in)\n   - Documents: Income certificate, caste certificate, marks cards, bank passbook\n\n2. Chief Minister's Scholarship\n   - For merit-based and economically weaker students\n   - Apply through the designated state portal\n\n3. Central Government Scholarships\n   - National Scholarship Portal (scholarships.gov.in)\n   - Includes Central Sector Scholarship for Colleges and University Students\n\n4. VTU Scholarships\n   - Merit-based scholarships for top-ranking students in VTU exams\n\n5. Institution Scholarships\n   - SDIT may offer fee waivers for particularly meritorious students\n   - Contact the Principal's office for details\n\n6. Minority Scholarships\n   - For students from minority communities\n   - Apply through the Karnataka Minority Welfare Department\n\nContact the SDIT scholarship in-charge or the administrative office for guidance on applying.",
+    "source": "SDIT + Government Scholarship Portals",
+    "source_url": "https://www.sdit.ac.in/scholarships",
+    "metadata": {"keywords": ["scholarship", "financial aid", "SC/ST", "OBC", "merit", "fee waiver"]}
+  },
+  {
+    "category": "events",
+    "subcategory": "clubs",
+    "title": "Student Clubs and Associations at SDIT",
+    "content": "SDIT has several active student clubs and associations:\n\n1. IEEE Student Branch — SDIT\n   - Purpose: Technical development, networking, exposure to global IEEE standards\n   - Activities: Technical talks, workshops, competitions, hackathons\n   - Chair: Ms. Ruth R Fernandes\n   - Affiliated with IEEE Mangalore Subsection\n   - Open to all engineering students\n\n2. NSS (National Service Scheme)\n   - Purpose: Community service and social responsibility\n   - Activities: Blood donation camps, cleanliness drives, rural outreach, health awareness\n   - Open to all students with a spirit of social service\n\n3. Cultural Club\n   - Purpose: Promoting arts, culture, and talent\n   - Activities: Annual cultural fest, dance, music, drama, fine arts competitions\n\n4. Technical Club (Dept-wise)\n   - Each department has its own technical association organizing seminars, coding contests, and project expos\n\n5. Innovation Club / IIC\n   - Linked to the Institution's Innovation Council\n   - Focuses on startups, patents, and innovation challenges\n\nTo join any club, contact the respective club advisor or attend the club's induction event at the beginning of each academic year.",
+    "source": "SDIT Official + IEEE Mangalore",
+    "source_url": "https://www.sdit.ac.in/clubs",
+    "metadata": {"keywords": ["clubs", "IEEE", "NSS", "cultural", "associations", "activities", "join"]}
+  },
+  {
+    "category": "events",
+    "subcategory": "upcoming",
+    "title": "SDIT Tech-Bot Competition 2025",
+    "content": "SDIT is conducting the SDIT Tech-Bot competition, a college chatbot development event:\n\nEvent: SDIT Tech-Bot — Your Campus Assistant\nOrganizer: Department of CSE, IEEE Student Branch, and IQAC\nVenue: SDIT Kenjar Campus\nEligibility: BE / BCA / MCA students\nParticipation: Individual or team of 2\n\nRequirements:\n- Develop a working chatbot using any platform\n- The chatbot should answer college-related queries naturally\n- Prepare a short presentation and live demo\n\nRewards: Cash prizes for winners\n\nEvent Coordinators: Mr. Savan Shetty | Ms. Latha Santhosh | Mr. Vidwath\nHelpdesk: +91 9353619812 | +91 8310675858 | +91 6363910295\n\nFor registration details, scan the QR code on the event poster or contact the coordinators.",
+    "source": "SDIT Tech-Bot Poster",
+    "source_url": "https://www.sdit.ac.in/events",
+    "metadata": {"keywords": ["tech-bot", "competition", "chatbot", "event", "prize", "registration"]}
+  },
+  {
+    "category": "facilities",
+    "subcategory": "library",
+    "title": "SDIT Library — Timings and Resources",
+    "content": "The SDIT Central Library provides students and faculty access to academic resources.\n\nTimings:\n- Monday to Saturday: 8:00 AM to 6:00 PM\n- Sundays and Public Holidays: Closed (or as per special announcements)\n\nResources Available:\n- Over 10,000+ books across all engineering disciplines\n- Journals and periodicals (print and digital)\n- National Digital Library of India (NDLI) access\n- NPTEL course materials\n- Previous year VTU question papers\n- Reference books and project reports\n\nRules:\n- Library membership is mandatory for borrowing books\n- Students can borrow up to 3 books at a time\n- Borrowing period: 14 days (renewable once)\n- Late return fine applies\n- Maintain silence in the reading room\n- Mobile phones must be on silent mode\n\nAccess:\n- All enrolled students get library membership automatically on admission\n- Library ID card is issued at the time of admission",
+    "source": "SDIT Library",
+    "source_url": "https://www.sdit.ac.in/library",
+    "metadata": {"keywords": ["library", "timings", "books", "resources", "reading room", "borrow"]}
+  },
+  {
+    "category": "facilities",
+    "subcategory": "hostel",
+    "title": "Hostel Facilities at SDIT",
+    "content": "SDIT provides hostel accommodation for outstation students.\n\nTypes of Hostels:\n- Boys Hostel: Available for male students\n- Girls Hostel: Available for female students\n\nEligibility:\n- Students from outside Mangaluru / outstation students are given preference\n- Local students may apply if accommodation is available\n\nFacilities:\n- Furnished rooms (2/3/4 sharing options)\n- 24-hour security\n- Mess / dining facility serving breakfast, lunch, dinner, and evening snacks\n- Common room with TV\n- Wi-Fi connectivity\n- Study room\n- Indoor games\n\nRules:\n- Students must follow hostel timings and curfew rules\n- Visitors are allowed only during designated visiting hours\n- Entry/exit to be recorded in the register\n- Ragging is strictly prohibited (zero tolerance)\n- Respect fellow residents and hostel property\n\nFees:\n- Hostel fees are charged separately from tuition fees\n- Contact the hostel warden or admissions office for the current fee structure\n\nApplication:\n- Apply for hostel accommodation along with the admission process\n- Contact the Hostel Warden for availability and admission",
+    "source": "SDIT Hostel Office",
+    "source_url": "https://www.sdit.ac.in/hostel",
+    "metadata": {"keywords": ["hostel", "accommodation", "boys", "girls", "rooms", "mess", "warden", "rules"]}
+  },
+  {
+    "category": "facilities",
+    "subcategory": "cafeteria",
+    "title": "SDIT Cafeteria",
+    "content": "The SDIT on-campus cafeteria provides affordable and hygienic food to students and staff.\n\nLocation: Inside the main campus premises\n\nTimings:\n- Breakfast: 8:00 AM to 9:30 AM\n- Lunch: 12:30 PM to 2:00 PM\n- Evening Snacks: 4:00 PM to 5:00 PM\n- Dinner (Hostel students): 7:30 PM to 9:00 PM\n\nMenu typically includes:\n- South Indian breakfast (idli, vada, dosa, poha)\n- Rice meals (sambar, rasam, vegetables, dal)\n- Roti / chapati with vegetables\n- Snacks (tea, coffee, samosa, bhajji)\n- Seasonal special items\n\nRules:\n- Maintain cleanliness and dispose of waste properly\n- Use the cafeteria only during designated meal times\n- Students are expected to follow queue discipline\n\nNote: Menu and timings may vary. Confirm with the cafeteria in charge for current details.",
+    "source": "SDIT Campus",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["cafeteria", "canteen", "food", "timings", "lunch", "breakfast", "menu"]}
+  },
+  {
+    "category": "facilities",
+    "subcategory": "transport",
+    "title": "College Transport / Bus Facility",
+    "content": "SDIT provides bus transport for students from various locations in and around Mangaluru.\n\nAvailable Routes (approximate — confirm with transport office):\n- Mangaluru City Centre ↔ SDIT Kenjar\n- Surathkal ↔ SDIT Kenjar\n- Kulshekar ↔ SDIT Kenjar\n- Kulai ↔ SDIT Kenjar\n- Ullal ↔ SDIT Kenjar\n- Udupi ↔ SDIT Kenjar (for students from Udupi direction)\n\nSchedule:\n- Morning pickup: Around 8:00 AM–8:30 AM from various stops\n- Evening drop: After college hours (typically 5:00 PM–6:00 PM)\n\nFees:\n- Transport fees are charged separately on a semester basis\n- Contact the transport/admin office for current route fees\n\nRules:\n- Students must carry the transport ID/bus pass\n- Bus will not wait beyond the scheduled departure time\n- Maintain discipline inside the bus\n\nContact:\n- Transport In-charge: Contact the SDIT administrative office\n- Helpdesk: +91 9353619812",
+    "source": "SDIT Transport Office",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["transport", "bus", "route", "schedule", "Mangaluru", "pickup", "drop"]}
+  },
+  {
+    "category": "facilities",
+    "subcategory": "sports",
+    "title": "Sports and Gym Facilities",
+    "content": "SDIT promotes physical fitness and sports culture among students.\n\nSports Facilities:\n- Cricket Ground\n- Basketball Court\n- Volleyball Court\n- Badminton Court (indoor)\n- Table Tennis\n- Chess and Carrom (indoor)\n- Kabaddi / Kho-Kho ground\n\nGym:\n- A fully equipped gymnasium is available for students\n- Equipment: treadmills, dumbbells, resistance machines, cycling machines\n- Gym Timings: 6:00 AM – 8:00 AM (morning session) and 5:00 PM – 7:00 PM (evening session)\n\nAnnual Sports Events:\n- SDIT Annual Sports Day\n- Inter-department and inter-college tournaments\n- Participation in VTU sports meets\n\nAccess:\n- Sports facilities are available to all enrolled students\n- Gym usage requires registration with the sports department\n- Sports equipment can be borrowed from the sports room with student ID",
+    "source": "SDIT Sports Department",
+    "source_url": "https://www.sdit.ac.in/sports",
+    "metadata": {"keywords": ["sports", "gym", "cricket", "basketball", "volleyball", "badminton", "fitness"]}
+  },
+  {
+    "category": "facilities",
+    "subcategory": "medical",
+    "title": "Medical and Health Facilities",
+    "content": "SDIT has a campus health centre to support students with basic medical needs.\n\nHealth Centre:\n- Location: Within the campus premises\n- Services: First aid, basic medical consultation, minor illness treatment\n- A qualified nurse/paramedic is available during college hours\n\nTimings:\n- During college hours: 9:00 AM to 5:00 PM (Monday to Saturday)\n\nEmergency:\n- For medical emergencies, call the helpdesk: +91 9353619812\n- Nearest hospital: Students should approach the college office in case of emergencies\n- Ambulance/transport assistance is available from the administration for serious cases\n\nInsurance:\n- Group Student Accident Insurance is available for enrolled students\n- Contact the administrative office for details\n\nImportant: The campus health centre provides first aid and basic care only. For serious conditions, students will be referred to nearby hospitals in Mangaluru.\n\nNote: This chatbot does not provide medical advice. For health issues, always consult a qualified doctor.",
+    "source": "SDIT Administration",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["medical", "health", "first aid", "emergency", "nurse", "insurance", "hospital"]}
+  },
+  {
+    "category": "placements",
+    "subcategory": "statistics",
+    "title": "Placement Statistics at SDIT",
+    "content": "SDIT has an active Training and Placement Cell that facilitates campus recruitment.\n\nPlacement Highlights (recent years — contact T&P cell for year-specific figures):\n- Placement percentage: 70–85% of eligible students placed in recent batches\n- Highest Package: Up to ₹8–12 LPA (varies by year and branch)\n- Average Package: ₹3.5–5 LPA\n- Top recruiting sectors: IT/Software, Core Engineering, BFSI, Manufacturing\n\nNote: Placement figures vary each year based on market conditions and student profiles. Always request the latest official placement brochure from the T&P Cell for accurate year-wise data.\n\nAcademic Year: 2023-24 (latest available)\nSource: SDIT Training and Placement Cell",
+    "source": "SDIT T&P Cell",
+    "source_url": "https://www.sdit.ac.in/placements",
+    "academic_year": "2023-24",
+    "metadata": {"keywords": ["placement", "package", "LPA", "statistics", "salary", "recruitment", "campus"]}
+  },
+  {
+    "category": "placements",
+    "subcategory": "recruiters",
+    "title": "Companies that Recruit from SDIT",
+    "content": "Several reputed companies have recruited from SDIT through campus placement drives.\n\nIT / Software Companies (have visited in past):\n- Infosys\n- Wipro\n- TCS (Tata Consultancy Services)\n- HCL Technologies\n- Mphasis\n- Cognizant\n- Capgemini\n- Accenture\n- Tech Mahindra\n\nCore / Manufacturing:\n- L&T (Larsen & Toubro)\n- Bosch\n- Volvo\n- Toyota Kirloskar\n- Forbes Marshall\n\nBFSI / Other:\n- Axis Bank\n- ICICI Bank\n- Bajaj Finance\n\nNote: Company participation varies each year. The presence of a company in this list does not guarantee future recruitment. Refer to the latest placement report from the T&P Cell for confirmed recruiters of the current academic year.",
+    "source": "SDIT T&P Cell",
+    "source_url": "https://www.sdit.ac.in/placements",
+    "metadata": {"keywords": ["companies", "recruiters", "Infosys", "Wipro", "TCS", "campus", "hiring"]}
+  },
+  {
+    "category": "placements",
+    "subcategory": "training",
+    "title": "Training and Skill Development at SDIT",
+    "content": "SDIT's Training and Placement Cell offers comprehensive training to prepare students for placements.\n\nPrograms Offered:\n\n1. Aptitude Training\n   - Quantitative aptitude, logical reasoning, verbal ability\n   - Mock tests and practice sessions\n   - Online platforms: Testbook, PrepInsta, InfyTQ\n\n2. Technical Training\n   - Programming skills: C, Java, Python, SQL\n   - Data Structures and Algorithms (DSA)\n   - Core subject revision workshops\n\n3. Soft Skills Training\n   - Communication skills\n   - Group Discussion (GD) sessions\n   - Personal Interview (PI) preparation\n   - Resume writing workshops\n\n4. Certification Courses\n   - NPTEL certifications\n   - Coursera / edX partnered courses\n   - Industry certifications (AWS, Google, Microsoft)\n\n5. Internship Training\n   - Guidance on applying for internships\n   - In-plant training (IPT) opportunities with local industry\n\nThe training program typically begins in the 5th semester for BE students.",
+    "source": "SDIT T&P Cell",
+    "source_url": "https://www.sdit.ac.in/placements",
+    "metadata": {"keywords": ["training", "aptitude", "skills", "placement preparation", "certification", "soft skills"]}
+  },
+  {
+    "category": "placements",
+    "subcategory": "resume",
+    "title": "Resume Writing Guide for SDIT Students",
+    "content": "A strong resume is your first impression on recruiters. Here are guidelines for creating an effective placement resume:\n\nResume Structure:\n1. Personal Details: Name, phone, email, LinkedIn, GitHub (for CSE/ECE)\n2. Career Objective: 2–3 lines specific to the role you are applying for\n3. Education: Reverse chronological — B.E. (SDIT/VTU), PUC/12th, 10th\n4. Skills: Programming languages, tools, technologies (only what you know well)\n5. Projects: 2–3 academic or personal projects with brief descriptions and tech stack\n6. Internships: If any, with company name, duration, and work description\n7. Certifications: NPTEL, Coursera, AWS, etc.\n8. Achievements: Academic ranks, competition wins, hackathons\n9. Extra-Curricular: Club memberships, sports, volunteering\n\nDo's:\n- Keep it to 1 page (freshers)\n- Use clean, professional formatting\n- Quantify achievements where possible ('Improved efficiency by 30%')\n- Tailor it for each job/company\n- Proofread carefully\n\nDon'ts:\n- Don't add fake projects or skills\n- Don't use photos unless specifically asked\n- Don't add personal details like religion, caste, father's occupation (not relevant)\n- Don't use colored backgrounds or fancy fonts\n\nFor personalized resume review, approach the T&P Cell or your department HOD.",
+    "source": "SDIT T&P Cell + General Best Practices",
+    "source_url": "https://www.sdit.ac.in/placements",
+    "metadata": {"keywords": ["resume", "CV", "job application", "interview", "template", "placement"]}
+  },
+  {
+    "category": "student_assistance",
+    "subcategory": "faqs",
+    "title": "Frequently Asked Questions — New Students",
+    "content": "Q: When does the academic year start at SDIT?\nA: The academic year typically begins in August–September as per VTU and Karnataka government schedule. Exact dates are announced each year.\n\nQ: How do I get my student ID card?\nA: Student ID cards are issued within the first few weeks of admission. Contact the administrative office / examination section if yours is delayed.\n\nQ: How do I download my hall ticket for VTU exams?\nA: Hall tickets for VTU semester exams are available on the VTU website (vtu.ac.in) using your USN (University Seat Number). Your USN is given at the time of admission. The college will also inform you when hall tickets are available.\n\nQ: What is my USN?\nA: USN (University Seat Number) is your unique VTU student identification number. It is issued when your admission is confirmed by VTU. It appears on your hall ticket and mark sheets.\n\nQ: How do I apply for leave?\nA: For medical leave: Submit a medical certificate from a registered doctor to your class teacher or HOD within 3 days of returning to college. For personal leave: Submit a written application to your class teacher/HOD in advance. VTU requires a minimum of 75% attendance in each subject to be eligible for examinations.\n\nQ: Where can I find previous year question papers?\nA: Previous year VTU question papers are available on the VTU website (vtu.ac.in/qpaper) and in the SDIT library.\n\nQ: How do I register a complaint?\nA: Complaints about academics, facilities, or harassment can be submitted to: the HOD of your department, the Vice Principal's office, or the college's designated complaint redressal mechanism. Anti-ragging committee: contact immediately for ragging complaints.",
+    "source": "SDIT Administration + VTU",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["FAQ", "questions", "student", "new student", "hall ticket", "USN", "leave", "attendance"]}
+  },
+  {
+    "category": "student_assistance",
+    "subcategory": "leave",
+    "title": "Leave Application Procedure",
+    "content": "Students requiring leave from classes must follow the official leave procedure:\n\nMedical Leave:\n1. Inform your class teacher/HOD on the day of absence (call or message through a representative)\n2. On returning, submit a medical certificate from a Registered Medical Practitioner within 3 days\n3. The certificate must cover the dates of absence\n4. Submit to class teacher first, then get HOD approval\n\nPersonal / Emergency Leave:\n1. Submit a written application to your class teacher or HOD BEFORE the leave dates if possible\n2. If it is an emergency, inform immediately and submit the application on return\n3. Get approval from the HOD\n4. For leave exceeding 3 days, approval from Vice Principal may be required\n\nAttendance Rules:\n- Minimum 75% attendance is mandatory in EACH subject for VTU semester exam eligibility\n- Below 75% in any subject = detained from that subject's examination\n- No relaxation is generally given — plan your leave carefully\n- Medical leave with valid certificates can sometimes be considered by HOD for condonation (up to a certain limit as per VTU norms)\n\nKeep copies of all leave applications and approvals for your records.",
+    "source": "VTU Regulations + SDIT Academic Office",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["leave", "attendance", "75%", "medical certificate", "absence", "application"]}
+  },
+  {
+    "category": "student_assistance",
+    "subcategory": "hall_ticket",
+    "title": "Hall Ticket — How to Download",
+    "content": "A Hall Ticket (Admission Ticket) is required to appear for VTU semester examinations.\n\nHow to Get Your Hall Ticket:\n1. Visit VTU official website: https://vtu.ac.in\n2. Go to the Examinations section → Hall Ticket download\n3. Enter your USN (University Seat Number) and date of birth\n4. Download and print your hall ticket\n5. Get it signed by your HOD or Principal before the exam (some exam centres require this)\n\nWhen is it Available?\nHall tickets are usually released 7–10 days before the examination. The college will announce when they are available.\n\nWhat if My Hall Ticket is Not Available?\nPossible reasons:\n- Attendance shortage (below 75% in some subjects)\n- Pending fee payment\n- Registration error at VTU\n\nWhat to Do:\n1. Check your attendance with the examination section\n2. Confirm fee payment with the accounts department\n3. Contact SDIT examination section immediately — do not wait until exam day\n\nImportant: Without a hall ticket, you cannot appear for the VTU examination. Handle this at least 5 days before the exam.",
+    "source": "VTU Examination Division + SDIT Exam Section",
+    "source_url": "https://vtu.ac.in",
+    "metadata": {"keywords": ["hall ticket", "admit card", "VTU exam", "download", "USN", "examination"]}
+  },
+  {
+    "category": "student_assistance",
+    "subcategory": "anti_ragging",
+    "title": "Anti-Ragging Policy at SDIT",
+    "content": "SDIT has a strict zero-tolerance policy against ragging.\n\nRagging is a punishable offence under UGC Anti-Ragging Regulations 2009 and Indian law.\n\nWhat Constitutes Ragging:\n- Any act that causes physical or psychological harm to a student\n- Forcing a junior student to do any activity against their will\n- Verbal abuse, intimidation, or humiliation\n- Any form of eve-teasing or harassment\n\nWhat to Do if You Face Ragging:\n1. Report immediately to the Anti-Ragging Committee (available at the college)\n2. Contact the SDIT helpdesk: +91 9353619812\n3. Call the national Anti-Ragging Helpline: 1800-180-5522 (toll free)\n4. File a complaint online at: antiragging.in\n\nPunishment for Ragging:\n- Suspension or expulsion from the institution\n- FIR filed with police\n- Criminal proceedings as per law\n\nAll complaints are treated confidentially. Do not hesitate to report.",
+    "source": "UGC Anti-Ragging Regulations + SDIT",
+    "source_url": "https://www.sdit.ac.in",
+    "metadata": {"keywords": ["ragging", "anti-ragging", "harassment", "complaint", "helpline", "safe campus"]}
+  }
+]

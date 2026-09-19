@@ -1,0 +1,2139 @@
+[
+  {
+    "id": "college.overview",
+    "category": "college_info",
+    "subcategory": "overview",
+    "title": "Shree Devi Institute of Technology - Overview",
+    "content": "Established in 2006, SDIT is a self-financing co-educational institution at Airport Road, Kenjar, Mangalore 574142, Karnataka. Affiliated to VTU Belagavi, recognized by AICTE New Delhi, NAAC accredited. Campus spans 12 acres. SDIT is part of the Shree Devi Education Trust (established 1992). CET Code: E146. PGCET codes: MBA B281, MCA C476, M.Tech T868.",
+    "facts": {
+      "established": 2006,
+      "trust_established": 1992,
+      "affiliation": "VTU",
+      "recognition": "AICTE",
+      "cet_code": "E146",
+      "campus_area": "12 acres"
+    },
+    "keywords": [
+      "college",
+      "overview",
+      "address",
+      "established",
+      "affiliation",
+      "AICTE",
+      "VTU",
+      "NAAC",
+      "codes",
+      "trust"
+    ],
+    "source": "SDIT Official Website & SSR 2024",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "college.vision_mission",
+    "category": "college_info",
+    "subcategory": "vision_mission",
+    "title": "SDIT Vision and Mission",
+    "content": "Vision: To be an institution of academic excellence imparting technical and management education integrated with human values to face social and environmental challenges. Mission: Disseminate quality education with student-centric learning; engage and encourage students, faculty and staff; mentor students and support career development; empower professionals with entrepreneurial, social and ethical values.",
+    "facts": {},
+    "keywords": [
+      "vision",
+      "mission",
+      "values",
+      "quality education",
+      "mentor",
+      "entrepreneurial"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/vision-mission/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "leadership.principal",
+    "category": "leadership",
+    "subcategory": "principal",
+    "title": "Current Principal of SDIT",
+    "content": "The Principal of SDIT is Dr. Manujesh B J. He serves as Chairperson of the Anti-Ragging Committee and is a member of the Board of Governors of Shree Devi Education Trust.",
+    "facts": {
+      "person": "Dr. Manujesh B J",
+      "role": "Principal",
+      "status": "current"
+    },
+    "keywords": [
+      "principal",
+      "college head",
+      "head of institution",
+      "Dr Manujesh",
+      "Manujesh B J"
+    ],
+    "source": "KB Expansance - Board of Governors & Anti-Ragging Committee",
+    "source_url": "https://sdit.ac.in/committees/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 10
+  },
+  {
+    "id": "leadership.vice_principal",
+    "category": "leadership",
+    "subcategory": "vice_principal",
+    "title": "Current Vice Principal of SDIT",
+    "content": "The Vice Principal of SDIT is Dr. Nethravathi P S. She is also a member of the Board of Governors of Shree Devi Education Trust and a member of the Anti-Ragging Committee.",
+    "facts": {
+      "person": "Dr. Nethravathi P S",
+      "role": "Vice Principal",
+      "status": "current"
+    },
+    "keywords": [
+      "vice principal",
+      "vice-principal",
+      "VP",
+      "Dr Nethravathi",
+      "Nethravathi P S"
+    ],
+    "source": "KB Expansance - Board of Governors & Committees",
+    "source_url": "https://sdit.ac.in/committees/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 10
+  },
+  {
+    "id": "leadership.board_of_governors",
+    "category": "leadership",
+    "subcategory": "board_of_governors",
+    "title": "Board of Governors - Shree Devi Education Trust",
+    "content": "Board of Governors of Shree Devi Education Trust: Dr. A Sadananda Shetty (Chairman), Mr. Nidhish S. Shetty (Vice-Chairman), Mrs. Priyanka N. Shetty (Secretary), Dr. K.R Dinesh (Vice Chancellor's Nominee, Govt. Engineering College K.R Pet). Members: Dr. Nethravathi P S (Vice Principal, SDIT) and Dr. Manujesh B J (Principal, SDIT).",
+    "facts": {
+      "chairman": "Dr. A Sadananda Shetty",
+      "vice_chairman": "Mr. Nidhish S. Shetty",
+      "secretary": "Mrs. Priyanka N. Shetty",
+      "vc_nominee": "Dr. K.R Dinesh"
+    },
+    "keywords": [
+      "board of governors",
+      "trust",
+      "chairman",
+      "vice chairman",
+      "secretary",
+      "governance",
+      "management"
+    ],
+    "source": "KB Expansance - Governing Bodies",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "leadership.trust_overview",
+    "category": "leadership",
+    "subcategory": "trust",
+    "title": "Shree Devi Education Trust (R.) - Overview",
+    "content": "The Shree Devi Education Trust, situated in Mangalore, Karnataka, was established in 1992 by a team of enlightened educationalists with a vision to provide quality education and prepare youth to become efficient professionals and upright citizens. The Trust manages multiple professional colleges: Shree Devi Institute of Technology (B.E., M.Tech, MBA, MCA), Shree Devi College of Pharmacy, Shree Devi College of Physiotherapy, Shree Devi College of Nursing, Shree Devi School of Nursing, Shree Devi College of Hotel Management, Shree Devi College of Fashion Design, Shree Devi College of Interior Design, Shree Devi College of Information Science, Shree Devi Institute of Social Work, Shree Devi College, and Shree Devi College of Allied Health Sciences.",
+    "facts": {
+      "established": 1992,
+      "location": "Mangalore, Karnataka",
+      "colleges_count": "13+"
+    },
+    "keywords": [
+      "trust",
+      "Shree Devi Education Trust",
+      "governing body",
+      "institutions",
+      "colleges",
+      "1992"
+    ],
+    "source": "KB Expansance - Governing Bodies",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "leadership.hods",
+    "category": "leadership",
+    "subcategory": "hods",
+    "title": "Department Heads (HODs) at SDIT",
+    "content": "HOD, Chemistry: Dr. Aparna K and Dr. Vijaya D P Alva. HOD, Aeronautical Engineering (AE): Dr. Sunil Nayak. HOD, Mechanical Engineering (ME): Mr. Sudheer Kumar B N. HOD, Electronics & Communication (EC/ECE): Mrs. Chitra Prabhu. HOD, Information Science (IS/ISE): Mrs. Nisha Veronica Coutinho. HOD, MCA: Mrs. Vidyarani. HOD, MBA: Dr. Gayatri Babu J. HOD, Civil Engineering: Mrs. Rashma Jain. Associate Professor EC & Student Welfare Officer: Dr. Sheryl Iona Aiman.",
+    "facts": {
+      "hod_chemistry": "Dr. Aparna K / Dr. Vijaya D P Alva",
+      "hod_ae": "Dr. Sunil Nayak",
+      "hod_me": "Mr. Sudheer Kumar B N",
+      "hod_ece": "Mrs. Chitra Prabhu",
+      "hod_ise": "Mrs. Nisha Veronica Coutinho",
+      "hod_mca": "Mrs. Vidyarani",
+      "hod_mba": "Dr. Gayatri Babu J",
+      "hod_civil": "Mrs. Rashma Jain"
+    },
+    "keywords": [
+      "HOD",
+      "head of department",
+      "CSE",
+      "ME",
+      "ECE",
+      "ISE",
+      "MCA",
+      "MBA",
+      "Civil",
+      "Chemistry",
+      "Aeronautical",
+      "faculty"
+    ],
+    "source": "KB Expansance - Committees",
+    "source_url": "https://sdit.ac.in/committees/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "courses.ug_programs",
+    "category": "courses",
+    "subcategory": "ug",
+    "title": "UG Programs Offered at SDIT (B.E.)",
+    "content": "SDIT offers 4-year (8-semester) B.E. degrees in: Computer Science & Engineering, Information Science & Engineering, CSE (Artificial Intelligence & Machine Learning), Artificial Intelligence & Data Science, Electronics & Communication Engineering, Mechanical Engineering, Civil Engineering, and Aeronautical Engineering.",
+    "facts": {
+      "duration": "4 years / 8 semesters",
+      "branches": [
+        "CSE",
+        "ISE",
+        "CSE AI-ML",
+        "AI-DS",
+        "ECE",
+        "Mechanical",
+        "Civil",
+        "Aeronautical"
+      ]
+    },
+    "keywords": [
+      "UG",
+      "B.E.",
+      "courses",
+      "branches",
+      "CSE",
+      "ISE",
+      "ECE",
+      "mechanical",
+      "civil",
+      "aeronautical",
+      "AI",
+      "data science"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "courses.pg_programs",
+    "category": "courses",
+    "subcategory": "pg",
+    "title": "PG Programs Offered at SDIT",
+    "content": "SDIT offers M.Tech in Construction Technology, Master of Business Administration (MBA), and Master of Computer Applications (MCA). A Physics Research Centre supports Ph.D. programs. PGCET codes: MBA B281, MCA C476, M.Tech T868.",
+    "facts": {
+      "pg_programs": [
+        "M.Tech Construction Technology",
+        "MBA",
+        "MCA",
+        "PhD Physics"
+      ],
+      "pgcet_mba": "B281",
+      "pgcet_mca": "C476",
+      "pgcet_mtech": "T868"
+    },
+    "keywords": [
+      "PG",
+      "M.Tech",
+      "MBA",
+      "MCA",
+      "PhD",
+      "research centre",
+      "postgraduate",
+      "PGCET"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "courses.cse",
+    "category": "courses",
+    "subcategory": "cse",
+    "title": "Computer Science & Engineering (CSE) Department",
+    "content": "CSE Department established in 2006 offers a 4-year B.E. degree. Focus areas include industry-institute collaboration for sponsored research projects and state-of-the-art labs (Data Structure, OOPS, ECLD, Microprocessor, OS, Networking, Algorithms, DBMS, System Programming, Internet Programming). Aligned with 12 VTU Program Outcomes (PO1-PO12). Course Outcomes available for 2015, 2017, 2018, and 2021 schemes.",
+    "facts": {
+      "established": 2006,
+      "duration": "4 years",
+      "specializations": [
+        "CSE",
+        "CSE AIML",
+        "AI & DS"
+      ]
+    },
+    "keywords": [
+      "CSE",
+      "Computer Science",
+      "department",
+      "labs",
+      "program outcomes",
+      "VTU",
+      "industry collaboration"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/computer-science-engineering/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "courses.ise",
+    "category": "courses",
+    "subcategory": "ise",
+    "title": "Information Science & Engineering (ISE) Department",
+    "content": "ISE offers a 4-year bachelor's degree (8 semesters) following the VTU syllabus. Focus on Internet & Communication Technologies (ICT), data connectivity, and e-paradigms (e-business, e-commerce, e-learning, e-governance). Aligned with 12 Program Outcomes (PO1-PO12). Students participate in IT exhibitions, seminars, and conferences.",
+    "facts": {
+      "duration": "4 years",
+      "focus": "ICT and data applications"
+    },
+    "keywords": [
+      "ISE",
+      "Information Science",
+      "ICT",
+      "VTU",
+      "e-business",
+      "e-governance",
+      "data connectivity"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/information-science-and-engineering/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "courses.cse_aiml",
+    "category": "courses",
+    "subcategory": "cse_aiml",
+    "title": "CSE (Artificial Intelligence & Machine Learning) Program",
+    "content": "4-year B.E. degree in CSE (AI & ML) addressing growing demand for AI/ML professionals. Focus areas: world-class AI/ML training, industry-institute collaboration for sponsored projects, state-of-the-art AI/ML facilities. Distinct from regular CSE with specialized AI/ML emphasis.",
+    "facts": {
+      "duration": "4 years",
+      "specialization": "AI & ML"
+    },
+    "keywords": [
+      "CSE AIML",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "AI ML",
+      "specialization"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/cseartificial-intelligence-machine-learning/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "courses.ai_ds",
+    "category": "courses",
+    "subcategory": "ai_ds",
+    "title": "Artificial Intelligence & Data Science Program",
+    "content": "4-year B.E. degree in AI & Data Science. Focus on data analytics, AI algorithms, scalable data solutions, statistical modeling, big data handling. Emphasizes data-driven decision making versus AIML's algorithm development focus.",
+    "facts": {
+      "duration": "4 years",
+      "specialization": "AI & Data Science"
+    },
+    "keywords": [
+      "AI DS",
+      "Artificial Intelligence",
+      "Data Science",
+      "analytics",
+      "big data",
+      "statistical modeling"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/artificial-intelligence-data-science/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "courses.ece",
+    "category": "courses",
+    "subcategory": "ece",
+    "title": "Electronics & Communication Engineering (ECE) Department",
+    "content": "ECE offers B.E. affiliated to VTU. Focus on telecommunications, computer hardware, and embedded systems. Curriculum emphasizes analysis, systems implementation, operation, production, and maintenance of ECE applications. Aligned with 12 Program Outcomes (PO1-PO12). Course Outcomes available for 2015, 2017, 2018, 2021 schemes.",
+    "facts": {
+      "focus": [
+        "Telecom",
+        "Hardware",
+        "Embedded Systems"
+      ]
+    },
+    "keywords": [
+      "ECE",
+      "Electronics",
+      "Communication",
+      "telecom",
+      "embedded systems",
+      "hardware"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/electronics-and-communication-engineering/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "courses.mechanical",
+    "category": "courses",
+    "subcategory": "mechanical",
+    "title": "Mechanical Engineering Department",
+    "content": "Mechanical Engineering applies physics and materials science for analysis, design, manufacturing, and maintenance of mechanical systems. Key facilities: CAED Lab (Computer-Aided Engineering Design), CAMD Lab (Manufacturing & Design), well-equipped workshops. Application areas: manufacturing plants, HVAC, transport, aircraft, robotics, medical devices. Core concepts: mechanics, kinematics, thermodynamics, materials science, structural analysis.",
+    "facts": {
+      "labs": [
+        "CAED Lab",
+        "CAMD Lab",
+        "Workshops"
+      ]
+    },
+    "keywords": [
+      "Mechanical",
+      "ME",
+      "CAED",
+      "CAMD",
+      "thermodynamics",
+      "robotics",
+      "manufacturing",
+      "HVAC"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/mechanical-engineering/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "courses.civil",
+    "category": "courses",
+    "subcategory": "civil",
+    "title": "Civil Engineering Department",
+    "content": "Civil Engineering addresses modern-day challenges of growing economy, population, and urbanization. Focus on scientifically designed sustainable physical spaces and infrastructure. Core competencies: scientific principles, materials science, analysis, synthesis, research, teamwork, leadership, and business skills. Aligned with 12 Program Outcomes (PO1-PO12).",
+    "facts": {
+      "focus": "Sustainable infrastructure and urban development"
+    },
+    "keywords": [
+      "Civil",
+      "infrastructure",
+      "construction",
+      "urban planning",
+      "sustainability"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/civil-engineering/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "courses.aeronautical",
+    "category": "courses",
+    "subcategory": "aeronautical",
+    "title": "Aeronautical Engineering Department",
+    "content": "Aeronautical Engineering focuses on aircraft and aerospace vehicle design, stability and control, propulsion systems, low and high-speed aerodynamics, and advanced defense/space technologies. Career opportunities: commercial aviation, military aviation, satellites, missiles, aerospace components, R&D. Uses Project-Based Learning (PBL) approach. Aligned with 12 Program Outcomes (PO1-PO12).",
+    "facts": {
+      "pedagogy": "Project-Based Learning",
+      "sectors": [
+        "Commercial Aviation",
+        "Military",
+        "Space",
+        "Defense"
+      ]
+    },
+    "keywords": [
+      "Aeronautical",
+      "aerospace",
+      "aircraft",
+      "propulsion",
+      "aerodynamics",
+      "defense",
+      "PBL"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/aeronautical-engineering/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "courses.mtech_construction",
+    "category": "courses",
+    "subcategory": "mtech",
+    "title": "M.Tech in Construction Technology",
+    "content": "Postgraduate M.Tech program in Construction Technology. Focus on construction management, project execution, quality control, and facility maintenance. Graduates work in consultancy firms, quality testing labs, road projects, government projects (railways, military), private construction firms, or open independent consultancy. Middle East offers strong opportunities. Graduates can pursue teaching/research. Course Outcomes available for 2016, 2018, 2022 schemes.",
+    "facts": {
+      "level": "Postgraduate",
+      "focus": "Construction Management"
+    },
+    "keywords": [
+      "M.Tech",
+      "Construction Technology",
+      "postgraduate",
+      "construction management",
+      "quality control"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/m-tech-construction-technology/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "courses.mba",
+    "category": "courses",
+    "subcategory": "mba",
+    "title": "Master of Business Administration (MBA) Program",
+    "content": "MBA is a postgraduate program focusing on managerial aspects of accounting, finance, marketing, and management. Curriculum includes case studies and industrial visits. Program features: guest lectures by industry experts, workshops, industrial visits, national-level management fests, mentorship. Vision: To impart management education instilling human values. Mission: academic excellence with optimal placement opportunities, leaders with integrity, critical thinking and communication development, career support for corporate world. 5 POs: management knowledge (PO1), analytical thinking (PO2), value-based leadership (PO3), global business understanding (PO4), team leadership (PO5).",
+    "facts": {
+      "level": "Postgraduate",
+      "pgcet_code": "B281",
+      "pos": 5,
+      "focus": [
+        "Finance",
+        "Marketing",
+        "Accounting",
+        "Management"
+      ]
+    },
+    "keywords": [
+      "MBA",
+      "Master of Business Administration",
+      "management",
+      "postgraduate",
+      "finance",
+      "marketing",
+      "leadership"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/master-of-business-administration/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "courses.mba_rank_holders",
+    "category": "courses",
+    "subcategory": "mba_rank_holders",
+    "title": "MBA VTU Rank Holders",
+    "content": "MBA Department VTU rank holders: Ms. Abhinaya (2nd Rank, 2022-24), Ms. Pratheeksha Kumari B S (6th Rank, 2022-24), Ms. Chaithra (10th Rank, 2022-24), Ms. Divyashree M (5th Rank, 2021-23), Ms. Sushmitha S. Shetty (8th Rank, 2019-21), Ms. Vaishnavi Shetty (8th Rank, 2019-21), Ms. Ashwini (2nd Rank, 2017-19), Ms. Prathima S (10th Rank, 2017-19), Ms. Sandhya T. J. (3rd Rank, 2016-18).",
+    "facts": {
+      "top_rank": "2nd Rank"
+    },
+    "keywords": [
+      "MBA",
+      "rank holders",
+      "VTU ranks",
+      "toppers",
+      "Abhinaya",
+      "Pratheeksha",
+      "Chaithra"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/master-of-business-administration/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "courses.mca",
+    "category": "courses",
+    "subcategory": "mca",
+    "title": "Master of Computer Applications (MCA) Program",
+    "content": "MCA is a 2-year full-time postgraduate program focusing on advanced knowledge in computer science, programming, and software development. Structure: interactive classes, national seminars, outbound activities, projects, internships. Career preparation for software development, IT consulting, systems analysis. PGCET Code: C476. 8 POs: foundation knowledge (PO1), problem analysis (PO2), sustainable solutions (PO3), modern tools (PO4), teamwork (PO5), project management (PO6), ethics (PO7), life-long learning (PO8). 3 PEOs: programming fundamentals (PEO1), industry-relevant technology (PEO2), ethical values and leadership (PEO3).",
+    "facts": {
+      "level": "Postgraduate",
+      "duration": "2 years",
+      "pgcet_code": "C476",
+      "pos": 8,
+      "peos": 3
+    },
+    "keywords": [
+      "MCA",
+      "Master of Computer Applications",
+      "postgraduate",
+      "programming",
+      "IT consulting",
+      "software development"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/master-of-computer-application/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "courses.mca_rank_holders",
+    "category": "courses",
+    "subcategory": "mca_rank_holders",
+    "title": "MCA VTU Rank Holders",
+    "content": "MCA Department VTU rank holders: Ms. Raksha (2nd Rank, 2014-15), Ms. Sarika N (2nd Rank, 2015-16), Ms. Namratha (1st Rank, 2016-17), Ms. Sumithra (2nd Rank, 2016-17), Ms. Anusha (3rd Rank, 2017-18), Ms. Meghala (6th Rank, 2018-19), Ms. Veekshitha (2nd Rank, 2019-20). Ms. Namratha secured 1st University Rank — the department's top achievement.",
+    "facts": {
+      "top_rank": "1st Rank (Ms. Namratha, 2016-17)"
+    },
+    "keywords": [
+      "MCA",
+      "rank holders",
+      "VTU ranks",
+      "Namratha",
+      "1st rank",
+      "Raksha",
+      "Sarika"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/master-of-computer-application/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "courses.program_outcomes_engineering",
+    "category": "courses",
+    "subcategory": "program_outcomes",
+    "title": "Engineering Program Outcomes (PO1-PO12)",
+    "content": "All B.E. programs follow VTU 12 Program Outcomes: PO1 Engineering knowledge, PO2 Problem analysis, PO3 Design/development of solutions, PO4 (investigation, some depts), PO5 Modern tool usage, PO6 The engineer and society, PO7 Environment and sustainability, PO8 Ethics, PO9 Individual and team work, PO10 Communication, PO11 Project management and finance, PO12 Life-long learning.",
+    "facts": {
+      "po_count": 12,
+      "framework": "VTU"
+    },
+    "keywords": [
+      "program outcomes",
+      "PO",
+      "PO1",
+      "PO12",
+      "engineering",
+      "VTU",
+      "accreditation"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/computer-science-engineering/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 4
+  },
+  {
+    "id": "admissions.be_eligibility",
+    "category": "admissions",
+    "subcategory": "engineering",
+    "title": "B.E. Admission Eligibility Criteria",
+    "content": "Pass in Pre-University Board or equivalent with minimum 45% aggregate marks in Physics, Chemistry and Mathematics. Relaxation: 40% for SC/ST/OBC candidates. Entrance routes: KCET, COMEDK, and PGCET. Management seats filled based on merit in qualifying examinations.",
+    "facts": {
+      "general_percentage": 45,
+      "reserved_percentage": 40,
+      "entrance_exams": [
+        "KCET",
+        "COMEDK",
+        "PGCET"
+      ]
+    },
+    "keywords": [
+      "admission",
+      "eligibility",
+      "B.E.",
+      "engineering",
+      "marks",
+      "KCET",
+      "COMEDK",
+      "management quota",
+      "reservation"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/eligibility/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 10
+  },
+  {
+    "id": "admissions.mba_eligibility",
+    "category": "admissions",
+    "subcategory": "mba",
+    "title": "MBA Admission Eligibility Criteria",
+    "content": "Pass in Bachelor's Degree examination of minimum 3 years duration with minimum 50% aggregate marks in all subjects including languages. Relaxation: 45% for SC, ST and Category-I of Karnataka candidates.",
+    "facts": {
+      "general_percentage": 50,
+      "reserved_percentage": 45,
+      "duration_years": 3
+    },
+    "keywords": [
+      "MBA",
+      "admission",
+      "eligibility",
+      "bachelor degree",
+      "aggregate",
+      "reservation"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/eligibility/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "admissions.mca_eligibility",
+    "category": "admissions",
+    "subcategory": "mca",
+    "title": "MCA Admission Eligibility Criteria",
+    "content": "Pass in recognized BCA / Bachelor degree in Computer Science Engineering or equivalent, OR B.Sc./B.Com./B.A. preferably with Mathematics at 10+2 or graduation. Candidates without Mathematics may need bridge courses as notified by VTU. Minimum 50% aggregate (45% for SC/ST/Category-I Karnataka).",
+    "facts": {
+      "general_percentage": 50,
+      "reserved_percentage": 45,
+      "bridge_course_if_no_maths": true
+    },
+    "keywords": [
+      "MCA",
+      "admission",
+      "eligibility",
+      "BCA",
+      "computer science",
+      "mathematics",
+      "bridge course"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/eligibility/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "admissions.mtech_eligibility",
+    "category": "admissions",
+    "subcategory": "mtech",
+    "title": "M.Tech Admission Eligibility Criteria",
+    "content": "Pass in qualifying degree/equivalent as prescribed by competent authority with minimum 50% aggregate in all years/semesters. Relaxation: 45% for SC, ST and Category-I candidates (only Karnataka). Valid GATE score candidates also eligible.",
+    "facts": {
+      "general_percentage": 50,
+      "reserved_percentage": 45,
+      "gate_accepted": true
+    },
+    "keywords": [
+      "M.Tech",
+      "admission",
+      "eligibility",
+      "GATE",
+      "aggregate",
+      "reservation"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/eligibility/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "admissions.documents",
+    "category": "admissions",
+    "subcategory": "documents",
+    "title": "Documents Required for Admission at SDIT",
+    "content": "Commonly required: Original SSLC, Original PUC marks card, Photocopy of Aadhaar card, Original Transfer Certificate (TC), Original Conduct Certificate, Passport-size photograph, Migration certificate (non-Karnataka students). Verify exact list with the admissions office.",
+    "facts": {
+      "documents": [
+        "SSLC",
+        "PUC",
+        "Aadhaar",
+        "TC",
+        "Conduct Certificate",
+        "Photo",
+        "Migration"
+      ]
+    },
+    "keywords": [
+      "documents",
+      "admission",
+      "PUC",
+      "SSLC",
+      "transfer certificate",
+      "migration",
+      "Aadhaar"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/information-science-and-engineering/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "academics.framework",
+    "category": "academics",
+    "subcategory": "system",
+    "title": "Academic Framework at SDIT (VTU Curriculum)",
+    "content": "SDIT follows the Visvesvaraya Technological University (VTU) curriculum under the Choice Based Credit System (CBCS). The IQAC releases an annual academic calendar. Internal assessments are conducted 2-3 times per semester. Academic Advisory Board monitors course progress and CIE.",
+    "facts": {
+      "university": "VTU",
+      "system": "CBCS",
+      "internal_assessments_per_semester": "2-3"
+    },
+    "keywords": [
+      "VTU",
+      "CBCS",
+      "curriculum",
+      "academic calendar",
+      "internal assessment",
+      "CIE",
+      "IQAC"
+    ],
+    "source": "SDIT SSR 2024",
+    "source_url": "https://sdit.ac.in/wp-content/uploads/2024/10/SSR.pdf",
+    "academic_year": "2024-25",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "shape.overview",
+    "category": "academics",
+    "subcategory": "shape_model",
+    "title": "SHAPE Model - SDIT's Institutional Distinctiveness",
+    "content": "SHAPE is SDIT's structured framework for Professional and Technical Quality Enhancement. The 5 components are: S - Soft Skills (communication, teamwork, leadership); H - Human Values/Life Skills (integrity, empathy, ethics workshops, yoga, stress management); A - Add-on Courses (Data Science, Cybersecurity, Advanced Software Development); P - Personality Development (mock interviews, leadership programs, coaching); E - Enhancing Technical Skills (hands-on projects, internships, hackathons, industry visits). Core aims: holistic development, competency building, culture of excellence.",
+    "facts": {
+      "components": [
+        "Soft Skills",
+        "Human Values",
+        "Add-on Courses",
+        "Personality Development",
+        "Enhancing Technical Skills"
+      ]
+    },
+    "keywords": [
+      "SHAPE",
+      "institutional distinctiveness",
+      "soft skills",
+      "personality development",
+      "human values",
+      "add-on courses",
+      "holistic development"
+    ],
+    "source": "SDIT Institutional Distinctiveness",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "shape.year_2",
+    "category": "academics",
+    "subcategory": "shape_year_2",
+    "title": "SHAPE Model - 2nd Year Program",
+    "content": "2nd Year Foundation & Basics: Personality Development (10-hour program on conversation, listening, debating like 'Toggle Talk'); Soft Skills (36-hour program on goal setting, grooming, stress management, leadership); Technical Training Certificate (TTC) - Core subject training (10 weeks) for IT branches, general core training for others.",
+    "facts": {
+      "personality_hours": 10,
+      "soft_skills_hours": 36,
+      "ttc_weeks": 10
+    },
+    "keywords": [
+      "SHAPE",
+      "2nd year",
+      "soft skills",
+      "personality development",
+      "TTC",
+      "toggle talk"
+    ],
+    "source": "SDIT Institutional Distinctiveness",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "shape.year_3",
+    "category": "academics",
+    "subcategory": "shape_year_3",
+    "title": "SHAPE Model - 3rd Year Program",
+    "content": "3rd Year Application & Refinement: Aptitude Training (Algebra, time-speed-distance, verbal reasoning, data interpretation); Communication Class (formal/informal communication, business emails, presentations); Soft Skills (conveying technical info, teamwork, critical thinking); TTC - Specialized technical training in advanced concepts.",
+    "facts": {
+      "activities": [
+        "Aptitude Training",
+        "Communication Class",
+        "Soft Skills",
+        "TTC advanced"
+      ]
+    },
+    "keywords": [
+      "SHAPE",
+      "3rd year",
+      "aptitude",
+      "communication",
+      "business emails",
+      "critical thinking"
+    ],
+    "source": "SDIT Institutional Distinctiveness",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "shape.year_4",
+    "category": "academics",
+    "subcategory": "shape_year_4",
+    "title": "SHAPE Model - 4th Year Program",
+    "content": "4th Year Job Readiness: Specialized Aptitude Classes (advanced mathematical concepts and problem-solving); Technical Training Sessions (deep dive into technical skills); Soft Skills Integration (professional interaction preparation); Assessment (Aptitude and Technical Tests to gauge job readiness).",
+    "facts": {
+      "activities": [
+        "Specialized Aptitude",
+        "Technical Training",
+        "Soft Skills Integration",
+        "Assessment"
+      ]
+    },
+    "keywords": [
+      "SHAPE",
+      "4th year",
+      "job readiness",
+      "placement preparation",
+      "aptitude",
+      "technical training"
+    ],
+    "source": "SDIT Institutional Distinctiveness",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "clubs.overview",
+    "category": "student_life",
+    "subcategory": "clubs_overview",
+    "title": "Student Clubs at SDIT - Complete List",
+    "content": "SDIT has 10 active student clubs: Lingua Nova (language & communication), Media Mavericks (photography, videography, media production), Coders Nexus (programming, hackathons), Sports Mania (athletics, tournaments), Cult-mosaic (cultural diversity, arts), Finance Club (markets, investment), Marketing Club (MAntra) (branding, digital marketing), HR Club (HRiday) (HR, leadership, organizational behavior), Samarpan (community service, social outreach), Eco Club (Sankalp) (sustainability, environment).",
+    "facts": {
+      "clubs_count": 10,
+      "clubs": [
+        "Lingua Nova",
+        "Media Mavericks",
+        "Coders Nexus",
+        "Sports Mania",
+        "Cult-mosaic",
+        "Finance Club",
+        "Marketing Club (MAntra)",
+        "HR Club (HRiday)",
+        "Samarpan",
+        "Eco Club (Sankalp)"
+      ]
+    },
+    "keywords": [
+      "clubs",
+      "societies",
+      "student life",
+      "extracurricular",
+      "activities"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "clubs.lingua_nova",
+    "category": "student_life",
+    "subcategory": "club_lingua_nova",
+    "title": "Lingua Nova Club - Language & Communication",
+    "content": "Lingua Nova focuses on enhancing language proficiency, public speaking, negotiation, and written/verbal corporate communication skills through interactive workshops. Open to all students looking to improve communication abilities and corporate readiness. Benefits: confidence in public speaking, refined professional writing, preparation for global career opportunities.",
+    "facts": {
+      "focus": [
+        "Language proficiency",
+        "Public speaking",
+        "Negotiation",
+        "Corporate communication"
+      ]
+    },
+    "keywords": [
+      "Lingua Nova",
+      "language",
+      "public speaking",
+      "communication",
+      "corporate skills"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "clubs.media_mavericks",
+    "category": "student_life",
+    "subcategory": "club_media_mavericks",
+    "title": "Media Mavericks Club - Photography & Media",
+    "content": "Media Mavericks is a hub for photography, videography, camera operation, media production, and editing software techniques. Open to aspiring media professionals, content creators, and photography/videography enthusiasts. Benefits: hands-on media tools experience, portfolio-building creative projects, exposure to industry trends.",
+    "facts": {
+      "focus": [
+        "Photography",
+        "Videography",
+        "Media production",
+        "Editing"
+      ]
+    },
+    "keywords": [
+      "Media Mavericks",
+      "photography",
+      "videography",
+      "media production",
+      "editing"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "clubs.coders_nexus",
+    "category": "student_life",
+    "subcategory": "club_coders_nexus",
+    "title": "Coders Nexus Club - Programming & Hackathons",
+    "content": "Coders Nexus is centered around computer programming (Python, Java, C++), hackathons, software development, and coding challenges. Open to students interested in coding from beginners to advanced across any discipline. Benefits: strong computer science foundation, peer collaboration, updated skills with emerging technologies.",
+    "facts": {
+      "focus": [
+        "Python",
+        "Java",
+        "C++",
+        "Hackathons",
+        "Software Development"
+      ]
+    },
+    "keywords": [
+      "Coders Nexus",
+      "programming",
+      "hackathons",
+      "coding",
+      "software development",
+      "Python",
+      "Java"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "clubs.sports_mania",
+    "category": "student_life",
+    "subcategory": "club_sports_mania",
+    "title": "Sports Mania Club - Athletics & Sports",
+    "content": "Sports Mania promotes athletic activity, competitive tournaments, and recreational matches in sports like football, volleyball, and indoor games. Open to any student interested in sports, physical fitness, or team activities. Benefits: physical health, teamwork, stress relief, sportsmanship.",
+    "facts": {
+      "sports": [
+        "Football",
+        "Volleyball",
+        "Indoor games"
+      ]
+    },
+    "keywords": [
+      "Sports Mania",
+      "sports",
+      "football",
+      "volleyball",
+      "athletics",
+      "fitness"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "clubs.cult_mosaic",
+    "category": "student_life",
+    "subcategory": "club_cult_mosaic",
+    "title": "Cult-mosaic Club - Cultural Diversity & Arts",
+    "content": "Cult-mosaic celebrates cultural diversity, artistic talent, and heritage through creative performances, cultural exchange events, and showcases. Open to students passionate about performance arts, cultural expression, or cross-cultural collaboration. Benefits: cultural awareness, artistic outlet, unity across diverse backgrounds.",
+    "facts": {
+      "focus": [
+        "Cultural diversity",
+        "Performing arts",
+        "Heritage"
+      ]
+    },
+    "keywords": [
+      "Cult-mosaic",
+      "cultural",
+      "arts",
+      "performance",
+      "heritage",
+      "diversity"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "clubs.finance",
+    "category": "student_life",
+    "subcategory": "club_finance",
+    "title": "Finance Club - Markets & Investment",
+    "content": "Finance Club explores financial markets, investment strategies, personal finance management, and wealth creation. Open to students interested in finance, management, investing, or economics. Benefits: practical money management, financial literacy, market analysis skills for future careers.",
+    "facts": {
+      "focus": [
+        "Financial markets",
+        "Investment",
+        "Personal finance"
+      ]
+    },
+    "keywords": [
+      "Finance Club",
+      "finance",
+      "investment",
+      "markets",
+      "wealth",
+      "financial literacy"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "clubs.marketing_mantra",
+    "category": "student_life",
+    "subcategory": "club_marketing",
+    "title": "Marketing Club (MAntra) - Branding & Digital Marketing",
+    "content": "MAntra covers branding, digital marketing strategies, advertising, and practical business growth tactics through competitions and real-world projects. Open to creative thinkers, aspiring entrepreneurs, students aiming for business or marketing careers. Benefits: creative strategy, practical marketing campaign experience, market awareness.",
+    "facts": {
+      "focus": [
+        "Branding",
+        "Digital Marketing",
+        "Advertising"
+      ]
+    },
+    "keywords": [
+      "MAntra",
+      "Marketing Club",
+      "branding",
+      "digital marketing",
+      "advertising"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "clubs.hr_hriday",
+    "category": "student_life",
+    "subcategory": "club_hr",
+    "title": "HR Club (HRiday) - Human Resources & Leadership",
+    "content": "HRiday focuses on human resources management, leadership development, organizational behavior, and interpersonal management. Open to students seeking leadership roles, organizational management skills, or HR careers. Benefits: leadership qualities, interpersonal conflict resolution, practical HR knowledge.",
+    "facts": {
+      "focus": [
+        "HR Management",
+        "Leadership",
+        "Organizational Behavior"
+      ]
+    },
+    "keywords": [
+      "HRiday",
+      "HR Club",
+      "human resources",
+      "leadership",
+      "organizational behavior"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "clubs.samarpan",
+    "category": "student_life",
+    "subcategory": "club_samarpan",
+    "title": "Samarpan Club - Community Service & Social Impact",
+    "content": "Samarpan drives social change, community service, social responsibility initiatives, and outreach campaigns. Open to any student wanting to participate in social impact, volunteering, and community welfare. Benefits: empathy, meaningful community impact, non-profit project management skills.",
+    "facts": {
+      "focus": [
+        "Community Service",
+        "Social Change",
+        "Outreach"
+      ]
+    },
+    "keywords": [
+      "Samarpan",
+      "community service",
+      "social impact",
+      "volunteering",
+      "outreach"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "clubs.eco_sankalp",
+    "category": "student_life",
+    "subcategory": "club_eco_sankalp",
+    "title": "Eco Club (Sankalp) - Environmental Sustainability",
+    "content": "Eco Club (Sankalp) is dedicated to environmental sustainability, conservation projects, ecological awareness campaigns, and green initiatives. Open to environmentally conscious students passionate about sustainability and ecology. Benefits: environmental awareness, local green initiative leadership, actionable sustainability habits.",
+    "facts": {
+      "focus": [
+        "Sustainability",
+        "Conservation",
+        "Eco-awareness"
+      ]
+    },
+    "keywords": [
+      "Eco Club",
+      "Sankalp",
+      "environment",
+      "sustainability",
+      "conservation",
+      "green"
+    ],
+    "source": "KB Expansance - Clubs in SDIT",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "events.calendar_overview",
+    "category": "student_life",
+    "subcategory": "events_overview",
+    "title": "Annual Events Calendar at SDIT",
+    "content": "SDIT's academic year features 11 major annual events: Orientation Programme (September), Krishna Janmashtami Celebration (Aug/Sep), Blood Donation Camp (Sep/Oct), Samshodhan Technical Project Exhibition (Oct/Nov), SURABHI Intra-College Cultural & Technical Fest (Nov/Dec), Technospark State-Level Science Model Exhibition (January), Annual Sports Meet (February), Shree Devi Sambhram National Level Fest (March), Alumni Meet (April), Annual Day (May), Graduation Day & Farewell (May/June).",
+    "facts": {
+      "events_count": 11
+    },
+    "keywords": [
+      "events",
+      "calendar",
+      "festivals",
+      "annual events",
+      "college events"
+    ],
+    "source": "KB Expansance - Key Events and Milestones",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "events.orientation",
+    "category": "student_life",
+    "subcategory": "event_orientation",
+    "title": "Orientation Programme (September)",
+    "content": "Designed to introduce new students to the college environment, academic policies, campus facilities, and faculty members, helping them transition smoothly into their degree programs. Approximate Date: September (Beginning of Academic Year).",
+    "facts": {
+      "month": "September",
+      "purpose": "New student induction"
+    },
+    "keywords": [
+      "orientation",
+      "induction",
+      "new students",
+      "September"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "events.krishna_janmashtami",
+    "category": "student_life",
+    "subcategory": "event_krishna_janmashtami",
+    "title": "Krishna Janmashtami Celebration (Aug/Sep)",
+    "content": "A vibrant campus celebration featuring traditional activities, including devotional songs (bhajans), skits depicting episodes from Krishna's life, and traditional games like Dahi Handi. Approximate Date: August / September.",
+    "facts": {
+      "month": "Aug/Sep",
+      "activities": [
+        "Bhajans",
+        "Skits",
+        "Dahi Handi"
+      ]
+    },
+    "keywords": [
+      "Krishna Janmashtami",
+      "cultural",
+      "bhajans",
+      "Dahi Handi",
+      "celebration"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 4
+  },
+  {
+    "id": "events.blood_donation",
+    "category": "student_life",
+    "subcategory": "event_blood_donation",
+    "title": "Blood Donation Camp (Sep/Oct)",
+    "content": "A community service initiative organized by the college in partnership with local health organizations to promote health awareness and encourage voluntary blood donation among students and staff. Approximate Date: September / October.",
+    "facts": {
+      "month": "Sep/Oct",
+      "purpose": "Community health service"
+    },
+    "keywords": [
+      "blood donation",
+      "camp",
+      "community service",
+      "health"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 4
+  },
+  {
+    "id": "events.samshodhan",
+    "category": "student_life",
+    "subcategory": "event_samshodhan",
+    "title": "Samshodhan - Technical Project Exhibition (Oct/Nov)",
+    "content": "An intra-college project showcase where engineering and management students display innovative technical projects, models, and research prototypes to faculty and external judges. Approximate Date: October / November.",
+    "facts": {
+      "month": "Oct/Nov",
+      "type": "Technical Exhibition"
+    },
+    "keywords": [
+      "Samshodhan",
+      "technical exhibition",
+      "project showcase",
+      "innovation"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "events.surabhi",
+    "category": "student_life",
+    "subcategory": "event_surabhi",
+    "title": "SURABHI - Intra-College Cultural & Technical Fest (Nov/Dec)",
+    "content": "An internal talent competition featuring technical paper presentations, coding challenges, music, dance, and literary contests to select representatives for inter-collegiate events. Approximate Date: November / December.",
+    "facts": {
+      "month": "Nov/Dec",
+      "type": "Intra-college fest"
+    },
+    "keywords": [
+      "SURABHI",
+      "cultural fest",
+      "technical fest",
+      "talent competition"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "events.technospark",
+    "category": "student_life",
+    "subcategory": "event_technospark",
+    "title": "Technospark - State-Level Science Model Exhibition (January)",
+    "content": "A prestigious state-level platform bringing together students from various institutions to demonstrate scientific discoveries, hardware models, and technological solutions. Approximate Date: January.",
+    "facts": {
+      "month": "January",
+      "level": "State-Level"
+    },
+    "keywords": [
+      "Technospark",
+      "science exhibition",
+      "state level",
+      "model exhibition"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "events.sports_meet",
+    "category": "student_life",
+    "subcategory": "event_sports_meet",
+    "title": "Annual Sports Meet (February)",
+    "content": "A multi-day track and field sports competition showcasing athletic talent, team sports (football, volleyball, cricket), and promoting fitness across all departments. Approximate Date: February.",
+    "facts": {
+      "month": "February",
+      "sports": [
+        "Football",
+        "Volleyball",
+        "Cricket",
+        "Athletics"
+      ]
+    },
+    "keywords": [
+      "sports meet",
+      "annual sports",
+      "athletics",
+      "football",
+      "cricket"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 5
+  },
+  {
+    "id": "events.shree_devi_sambhram",
+    "category": "student_life",
+    "subcategory": "event_sambhram",
+    "title": "Shree Devi Sambhram - National Level Fest (March)",
+    "content": "The institution's flagship national-level fest featuring competitive technical symposia, cultural performances, and live music concerts with invited celebrity artists. Approximate Date: March.",
+    "facts": {
+      "month": "March",
+      "level": "National Level",
+      "type": "Flagship Fest"
+    },
+    "keywords": [
+      "Shree Devi Sambhram",
+      "national fest",
+      "cultural fest",
+      "technical symposia",
+      "celebrity concert"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "events.alumni_meet",
+    "category": "student_life",
+    "subcategory": "event_alumni_meet",
+    "title": "Alumni Meet (April)",
+    "content": "An interactive annual reunion connecting former graduates with current students and faculty to foster professional networking, career mentorship, and industry linkages. Approximate Date: April.",
+    "facts": {
+      "month": "April",
+      "purpose": "Alumni networking"
+    },
+    "keywords": [
+      "alumni meet",
+      "reunion",
+      "networking",
+      "mentorship"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 4
+  },
+  {
+    "id": "events.annual_day",
+    "category": "student_life",
+    "subcategory": "event_annual_day",
+    "title": "Annual Day (May)",
+    "content": "A grand end-of-year event celebrating academic achievements, prize distributions for intra-college competitions, and artistic showcases by student groups. Approximate Date: May.",
+    "facts": {
+      "month": "May",
+      "purpose": "Prize distribution and celebration"
+    },
+    "keywords": [
+      "annual day",
+      "prize distribution",
+      "achievements",
+      "celebration"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 4
+  },
+  {
+    "id": "events.graduation_farewell",
+    "category": "student_life",
+    "subcategory": "event_graduation",
+    "title": "Graduation Day & Farewell Day (May/June)",
+    "content": "Formal ceremonies marking the academic culmination for graduating batches, featuring degree conferral addresses, award presentations, and farewell celebrations. Approximate Date: May / June.",
+    "facts": {
+      "month": "May/June",
+      "purpose": "Graduation ceremony"
+    },
+    "keywords": [
+      "graduation",
+      "farewell",
+      "convocation",
+      "degree",
+      "ceremony"
+    ],
+    "source": "KB Expansance - Key Events",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 4
+  },
+  {
+    "id": "achievements.excellent_college_award",
+    "category": "achievements",
+    "subcategory": "awards",
+    "title": "SDIT Awarded 'Excellent Engineering College in Karnataka'",
+    "content": "SDIT was officially recognized and awarded the title 'Excellent Engineering College in Karnataka' at the 2nd National Education Awards for academic excellence and technical education quality in Karnataka. This is a major institutional landmark for the college.",
+    "facts": {
+      "award": "Excellent Engineering College in Karnataka",
+      "award_body": "2nd National Education Awards"
+    },
+    "keywords": [
+      "award",
+      "achievement",
+      "Excellent Engineering College",
+      "National Education Awards",
+      "Karnataka",
+      "recognition"
+    ],
+    "source": "KB Expansance - Milestones",
+    "source_url": "https://sdit.ac.in/category/events/",
+    "academic_year": "Recent",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "placement.stats",
+    "category": "placement",
+    "subcategory": "statistics",
+    "title": "Placement Statistics (2016-2020)",
+    "content": "SDIT placement offer letters by year: 2016 - 427+, 2017 - 452+, 2018 - 461+, 2019 - 480+, 2020 - 492+. Average placement rate for eligible final-year students in recent 3 years: 90-95%. Shows consistent year-over-year growth.",
+    "facts": {
+      "year_2016": 427,
+      "year_2017": 452,
+      "year_2018": 461,
+      "year_2019": 480,
+      "year_2020": 492,
+      "placement_rate": "90-95%"
+    },
+    "keywords": [
+      "placement",
+      "statistics",
+      "offer letters",
+      "placement rate",
+      "2020",
+      "history"
+    ],
+    "source": "KB Expansance - About the Placement",
+    "source_url": "https://sdit.ac.in/about-the-placement/",
+    "academic_year": "2016-2020",
+    "is_historical": true,
+    "priority": 8
+  },
+  {
+    "id": "placement.recruiters_current",
+    "category": "placement",
+    "subcategory": "recruiters",
+    "title": "Top Recruiters at SDIT (Updated List)",
+    "content": "Leading companies that recruit from SDIT: TCS, Cognizant, HCL Tech, PWC, EY, Oracle, Wipro, CapGemini, Cisco, Dell Technologies, Tech Mahindra, Wells Fargo, SAP, Goldman Sachs, Honeywell, JP Morgan, Flipkart, Adobe, Shell, HP, Tesco, ITC Infotech, Samsung, Nvidia, Unilever, Infosys, L&T, HDFC Bank, Caterpillar, Paytm, IBM, Mphasis, Ericsson, ICICI Bank, and many more. Recruiters span IT, engineering, banking, and manufacturing sectors.",
+    "facts": {
+      "companies": [
+        "TCS",
+        "Cognizant",
+        "HCL",
+        "PWC",
+        "EY",
+        "Oracle",
+        "Wipro",
+        "CapGemini",
+        "Cisco",
+        "Dell",
+        "Tech Mahindra",
+        "Wells Fargo",
+        "SAP",
+        "Goldman Sachs",
+        "Honeywell",
+        "JP Morgan",
+        "Flipkart",
+        "Adobe",
+        "Shell",
+        "HP",
+        "Tesco",
+        "ITC Infotech",
+        "Samsung",
+        "Nvidia",
+        "Unilever",
+        "Infosys",
+        "L&T",
+        "HDFC Bank",
+        "Caterpillar",
+        "Paytm"
+      ]
+    },
+    "keywords": [
+      "recruiters",
+      "companies",
+      "placement",
+      "top companies",
+      "hiring",
+      "MNC"
+    ],
+    "source": "KB Expansance - Company Placements",
+    "source_url": "https://sdit.ac.in/placement-companies/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "placement.process",
+    "category": "placement",
+    "subcategory": "process",
+    "title": "Placement Process & Infrastructure",
+    "content": "Placement starts in the 7th semester for final-year students. Process includes on-campus drives and pool campus interviews (region-wide involving other engineering colleges in Mangalore region). Facilities: seminar halls for company presentations, Group Discussion (GD) rooms, conferencing facilities, dedicated interview and discussion rooms. Departmental objectives: develop balanced technical/interpersonal skills, forge technology alliances between institution and industries, provide quality technical manpower.",
+    "facts": {
+      "starts_semester": "7th",
+      "facilities": [
+        "Seminar halls",
+        "GD rooms",
+        "Conference facilities",
+        "Interview rooms"
+      ]
+    },
+    "keywords": [
+      "placement",
+      "process",
+      "pool campus",
+      "on-campus",
+      "GD",
+      "interview",
+      "7th semester"
+    ],
+    "source": "KB Expansance - About the Placement",
+    "source_url": "https://sdit.ac.in/about-the-placement/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "placement.training",
+    "category": "placement",
+    "subcategory": "training",
+    "title": "Placement Training Department & Programs",
+    "content": "Department of Placement & Training is the nodal agency for career counseling, higher education guidance, and industry connections. Programs: Pre-Placement Training (aptitude, logical skills, interviews for final year), Aptitude & Technical Training (2nd & 3rd year), Pre-Placement Talks (industry leaders), Mock Interviews (by experts), Internship Assistance (project students), Higher Education Talks (study abroad, CAT, GMAT). Industrial Visits for 2nd, 3rd, and Final year students. Goals: single window career hub, training infrastructure for value-added programs, best practices for campus placements, computerized database of students.",
+    "facts": {
+      "training_starts": "2nd year",
+      "services": [
+        "Pre-Placement Training",
+        "Mock Interviews",
+        "Internship Assistance",
+        "Higher Education Talks",
+        "Industrial Visits"
+      ]
+    },
+    "keywords": [
+      "placement training",
+      "aptitude",
+      "mock interview",
+      "internship",
+      "industrial visit",
+      "CAT",
+      "GMAT"
+    ],
+    "source": "KB Expansance - Placement Training",
+    "source_url": "https://sdit.ac.in/placement-training/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "placement.batch_2025",
+    "category": "placement",
+    "subcategory": "batch_2025",
+    "title": "Batch 2025 Placements (Partial List)",
+    "content": "Batch 2025 placement participants include: Saniha Shetty (MCA), Abhinav/Abbin (MBA), Abhishek Kulal (CS), Ritesh (CS), Aishwarya Chilshetty (CS), Chiranjeevi (CS), Chashmitha K T (CS), Chaithanya K P (MCA), Bhoomika D N (CS), Anjali Choudaki (MCA), Riyona Manisha Mascarenhas (MCA), Shashank C (CS), Yashas K C (CS), Archana B V (MCA), Adithya Kumar (MCA), Manasi Bhosale (MCA). Note: Company details are partial in the source data.",
+    "facts": {
+      "batch": "2025",
+      "branches": [
+        "MCA",
+        "MBA",
+        "CS"
+      ]
+    },
+    "keywords": [
+      "batch 2025",
+      "placements",
+      "students placed",
+      "recent batch"
+    ],
+    "source": "KB Expansance - Batch 2025",
+    "source_url": "https://sdit.ac.in/placement-companies/",
+    "academic_year": "2024-25",
+    "is_historical": false,
+    "priority": 4
+  },
+  {
+    "id": "practices.green_campus",
+    "category": "facilities",
+    "subcategory": "green_campus",
+    "title": "Best Practice 1: Green Campus Initiative",
+    "content": "SDIT's Green Campus initiative fosters environmental consciousness, sustainable practices, and a clean, healthy environment. Renewable Energy: 136-kW solar power system, LED lighting, solar water heaters. Water Conservation: Rainwater harvesting systems. Waste Management: Dry/Wet segregation, E-Waste collection with MOU with Moogambigai Metal Refineries (Jan 21, 2021), Vermicomposting, Sewage Treatment. Green Spaces: Botanical Garden with medicinal/herbal plants, Eco Trail, Green Blossom Fountain, Canteen Garden (Eco-Bite). Awareness: Environmental Day celebrations, sapling gifting, cleanliness drives. Achievements: Gold Ranking as 'Green College' (Green Mentors' Accreditation), Green College Audit 2022-25 compliance, reduced carbon footprint.",
+    "facts": {
+      "solar_kw": 136,
+      "award": "Gold Ranking Green College",
+      "mou_e_waste": "Moogambigai Metal Refineries (2021)"
+    },
+    "keywords": [
+      "green campus",
+      "sustainability",
+      "solar power",
+      "rainwater harvesting",
+      "waste management",
+      "e-waste",
+      "vermicomposting",
+      "botanical garden",
+      "eco trail",
+      "green college"
+    ],
+    "source": "KB Expansance - Best Practices",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "practices.samarpan",
+    "category": "facilities",
+    "subcategory": "samarpan_initiative",
+    "title": "Best Practice 2: Samarpan - Social Outreach Initiative",
+    "content": "Samarpan is a reformative initiative toward societal excellence that instills values of generosity, bridges the urban-rural divide, and uplifts underprivileged communities. Programs: Annual outreach to orphanages, old age homes, rural schools, charitable institutions; Fundraising via movie screenings, fairs, sales, food fests; Proceeds to Aloka Foundation (MOU Sept 17, 2021); Blood donation drives; AIDS awareness; Digital literacy for rural households; Beach cleaning (with Vana Charitable Trust); Tree plantation; Cultural programs for differently-abled; Visits to Anirveda (special children school) and White Doves Psychiatric Home. Partnerships with St. Anthony's Ashram, Samvedhana Home, Snehadeep Orphanage.",
+    "facts": {
+      "mou": "Aloka Foundation (2021)",
+      "partners": [
+        "Vana Charitable Trust",
+        "St. Anthony's Ashram",
+        "Anirveda",
+        "White Doves"
+      ]
+    },
+    "keywords": [
+      "Samarpan",
+      "social outreach",
+      "community service",
+      "blood donation",
+      "AIDS awareness",
+      "digital literacy",
+      "beach cleaning",
+      "orphanage"
+    ],
+    "source": "KB Expansance - Best Practices",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "committees.anti_ragging",
+    "category": "committees",
+    "subcategory": "anti_ragging",
+    "title": "Anti-Ragging Committee (Updated 2025-26)",
+    "content": "Objective: Uphold legal prohibitions against ragging, prevent incidents, punish offenders. Zero recorded ragging cases to date. Penalties: Suspension from classes/exams/hostel, withholding scholarships, cancellation of admission, fines (₹25,000-₹1 lakh), collective punishment if perpetrators unidentified. Members: Dr. Manujesh B J (Principal, Chairperson), Dr. Nethravathi P S (Vice Principal, Member), Dr. Aparna K (HOD Chemistry), Dr. Sunil Nayak (HOD AE), Mr. Sudheer Kumar B N (HOD ME), Mrs. Chitra Prabhu (HOD EC), Mrs. Nisha Veronica Coutinho (HOD IS), Dr. Sheryl Iona Aiman (Assoc. Prof EC & SWO), Mrs. Vidyarani (HOD MCA), Mrs. Rachel Sweety (Asst. Prof MBA), Mrs. Anuradha Bhandary (Asst. Prof ME), Mr. Naveen Shetty (Boys Hostel Warden), Mrs. Saraswathi (Girls Hostel Warden), Mrs. Nalinakshi (Parent).",
+    "facts": {
+      "chairperson": "Dr. Manujesh B J",
+      "members_count": 14,
+      "cases_recorded": 0,
+      "fine_range": "₹25,000-₹1 lakh"
+    },
+    "keywords": [
+      "anti-ragging",
+      "committee",
+      "ragging complaint",
+      "penalties",
+      "zero tolerance",
+      "hostel",
+      "members"
+    ],
+    "source": "KB Expansance - Committees",
+    "source_url": "https://sdit.ac.in/committees/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 10
+  },
+  {
+    "id": "committees.grievance",
+    "category": "committees",
+    "subcategory": "grievance",
+    "title": "Grievance Redressal Committee",
+    "content": "Objective: Resolve student complaints (non-academic: ragging, scholarships, events) via a 4-step process: 1. File complaint via Student Grievance Form (handwritten/email) to Director of Student Affairs + copy to Department Proctor; 2. Confirmation (complaint logged); 3. Investigation (department verifies, takes action); 4. Resolution (student notified). Members: Dr. K E Prakash (Principal, Chairperson), Mrs. Rashma Jain (HOD Civil, Student Welfare Officer), Dr. Vijaya D P Alva (HOD Chemistry), Mrs. Sheryl Iona, Mr. Harsha G O, Mr. Vignesh Rao, Mrs. Anuradha Bhandary (Asst. Professors), Mr. Chikkaiah K Rai (Boys Hostel Warden), Mrs. Indira Hegde (Girls Hostel Warden), Mr. Paresh (Student Rep), Ms. Gagana (Student Rep). Contact via Student Welfare Officer.",
+    "facts": {
+      "steps": 4,
+      "first_contact": "Director of Student Affairs",
+      "chairperson": "Dr. K E Prakash"
+    },
+    "keywords": [
+      "grievance",
+      "complaint",
+      "redressal",
+      "student affairs",
+      "proctor",
+      "investigation",
+      "resolution"
+    ],
+    "source": "KB Expansance - Committees",
+    "source_url": "https://sdit.ac.in/committees/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "committees.women_harassment",
+    "category": "committees",
+    "subcategory": "women_harassment",
+    "title": "Internal Complaint Committee (Women Anti-Harassment)",
+    "content": "Objective: Ensure a safe, harassment-free environment; promote women's empowerment via awareness campaigns, legal rights education, and self-defense training. Structure: Led by a female instructor (Chairperson). Members: Dr. K E Prakash (Principal), Dr. Gayatri Babu J (HOD MBA, Chairperson), Prof. Chitra Prabhu (HOD ECE), Ms. Anuradha Bhandary, Ms. Swathi K S, Mrs. Anupama Natesh (Asst. Professors), Mrs. Shoba Shetty (Office Clerk), Mrs. Indira Hegde (Girls Hostel Warden), Ms. Emitre Challam (Student Rep), Ms. Dhanya (Student Rep). Activities: Legal rights workshops, self-defense training, awareness campaigns, complaint filing guidance.",
+    "facts": {
+      "chairperson": "Dr. Gayatri Babu J",
+      "members_count": 10
+    },
+    "keywords": [
+      "women",
+      "anti-harassment",
+      "complaint",
+      "committee",
+      "women's safety",
+      "self-defense",
+      "legal rights"
+    ],
+    "source": "KB Expansance - Committees",
+    "source_url": "https://sdit.ac.in/committees/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "facilities.library",
+    "category": "facilities",
+    "subcategory": "library",
+    "title": "Library Facilities at SDIT",
+    "content": "The library spans two floors (8,928 sq ft) with a seating capacity of 178. Collection: 26,759+ volumes, 4,968 titles, 6,801 book-bank books, 319 SC/ST books, 1,237 project reports. Services: 100 Mbps internet, Easy-lib v4.3.3 OPAC, DELNET ILL, previous-year question papers, anti-plagiarism tools. Facilities: general reading room, separate boys/girls reading areas, group study room, photocopy centre.",
+    "facts": {
+      "floors": 2,
+      "area_sqft": 8928,
+      "seats": 178,
+      "volumes": 26759,
+      "titles": 4968,
+      "internet_mbps": 100
+    },
+    "keywords": [
+      "library",
+      "books",
+      "volumes",
+      "titles",
+      "reading room",
+      "OPAC",
+      "question papers",
+      "internet",
+      "study",
+      "timings"
+    ],
+    "source": "SDIT SSR 2024",
+    "source_url": "https://sdit.ac.in/wp-content/uploads/2024/10/SSR.pdf",
+    "academic_year": "2024-25",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "facilities.hostel",
+    "category": "facilities",
+    "subcategory": "hostel",
+    "title": "Hostel Facilities at SDIT",
+    "content": "SDIT provides separate hostels for boys (2 blocks) and girls (2 blocks). Rooms with attached bathrooms, dining facilities, and study spaces. For current fees, availability, and rules, contact the hostel administration directly.",
+    "facts": {
+      "boys_hostels": 2,
+      "girls_hostels": 2,
+      "amenities": [
+        "attached bathroom",
+        "dining",
+        "study space"
+      ]
+    },
+    "keywords": [
+      "hostel",
+      "boys",
+      "girls",
+      "accommodation",
+      "rooms",
+      "dining",
+      "fees",
+      "rules"
+    ],
+    "source": "SDIT SSR 2024",
+    "source_url": "https://sdit.ac.in/wp-content/uploads/2024/10/SSR.pdf",
+    "academic_year": "2024-25",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "facilities.infrastructure",
+    "category": "facilities",
+    "subcategory": "infrastructure",
+    "title": "Campus Infrastructure and Classrooms",
+    "content": "Spacious ICT-enabled classrooms with projectors, state-of-the-art laboratories with smart boards aligned with VTU curriculum, well-equipped auditorium, AV-equipped seminar hall, open-air theatre that can host about 2,000 guests.",
+    "facts": {
+      "open_air_theatre_capacity": 2000,
+      "ict_enabled_classrooms": true
+    },
+    "keywords": [
+      "classrooms",
+      "labs",
+      "auditorium",
+      "seminar hall",
+      "open air theatre",
+      "ICT",
+      "infrastructure"
+    ],
+    "source": "SDIT SSR 2024",
+    "source_url": "https://sdit.ac.in/wp-content/uploads/2024/10/SSR.pdf",
+    "academic_year": "2024-25",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "facilities.sports",
+    "category": "facilities",
+    "subcategory": "sports",
+    "title": "Sports Facilities at SDIT",
+    "content": "Indoor: table tennis, chess, carrom. Outdoor: badminton, throwball, volleyball, football, cricket. Activity hall used for team-building, yoga, and induction programs.",
+    "facts": {
+      "indoor": [
+        "Table Tennis",
+        "Chess",
+        "Carrom"
+      ],
+      "outdoor": [
+        "Badminton",
+        "Throwball",
+        "Volleyball",
+        "Football",
+        "Cricket"
+      ]
+    },
+    "keywords": [
+      "sports",
+      "indoor",
+      "outdoor",
+      "table tennis",
+      "chess",
+      "badminton",
+      "volleyball",
+      "football",
+      "cricket",
+      "yoga"
+    ],
+    "source": "SDIT SSR 2024",
+    "source_url": "https://sdit.ac.in/wp-content/uploads/2024/10/SSR.pdf",
+    "academic_year": "2024-25",
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "facilities.transport",
+    "category": "facilities",
+    "subcategory": "transport",
+    "title": "Transport and Bus Facilities at SDIT",
+    "content": "SDIT provides transportation facilities for students and staff. For current bus routes, timings, and fees, contact the college administration directly.",
+    "facts": {
+      "transport_available": true
+    },
+    "keywords": [
+      "transport",
+      "bus",
+      "routes",
+      "timings",
+      "shuttle",
+      "commute"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/campus/",
+    "academic_year": null,
+    "is_historical": false,
+    "priority": 6
+  },
+  {
+    "id": "scholarships.schemes",
+    "category": "scholarships",
+    "subcategory": "schemes",
+    "title": "Scholarships and Financial Assistance Available",
+    "content": "SDIT lists financial assistance from: Backward Welfare Department, Department of Collegiate Education, Department of Minority Welfare, Department of Social Welfare, Tribal Welfare Department, Department of Agriculture, Department of Technical Education, Karnataka Arya Vyshya, Sitaram Jindal Foundation, Management Concession, Department of Karnataka Buildings and Other Co-operative Workers, Department of Brahmin Welfare. Specific eligibility, amounts, and deadlines are not published; verify with the admissions office.",
+    "facts": {
+      "schemes_count": 12
+    },
+    "keywords": [
+      "scholarship",
+      "financial assistance",
+      "welfare",
+      "concession",
+      "backward",
+      "minority",
+      "SC",
+      "ST",
+      "management"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/scholarship/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 9
+  },
+  {
+    "id": "research.centre",
+    "category": "research",
+    "subcategory": "centre",
+    "title": "Research and Innovation at SDIT",
+    "content": "SDIT has a Physics Research Centre facilitating doctoral programs. Eligibility, subjects, and lab facilities are marked as 'will be updated soon' on the official page. The Innovation Council and Incubation Centre support start-ups, and the Entrepreneurship Development Cell is recognized by the Ministry of Education. Three research centres are accredited by VTU (SSR 2024).",
+    "facts": {
+      "phd_centre": "Physics",
+      "research_centres_vtu": 3,
+      "incubation_centre": true
+    },
+    "keywords": [
+      "research",
+      "PhD",
+      "physics",
+      "innovation",
+      "incubation",
+      "start-up",
+      "entrepreneurship",
+      "VTU"
+    ],
+    "source": "SDIT Official Website & SSR 2024",
+    "source_url": "https://sdit.ac.in/research-centrephd/",
+    "academic_year": "2024-25",
+    "is_historical": false,
+    "priority": 7
+  },
+  {
+    "id": "contacts.phone_email",
+    "category": "contacts",
+    "subcategory": "phone_email",
+    "title": "Contact Details (Phone and Email)",
+    "content": "College Phone: +91 (824) 2254104 / 2254102. Trust Office: 0824-2456501 / 2456511 / 2457937. Trust Office Mobile: +91 91411 81260 / +91 91411 81261. General Email: info@sdc.ac.in. Address: Airport Road, Kenjar, Mangalore - 574142, Karnataka.",
+    "facts": {
+      "college_phone": [
+        "+91 (824) 2254104",
+        "+91 (824) 2254102"
+      ],
+      "trust_phone": [
+        "0824-2456501",
+        "0824-2456511",
+        "0824-2457937"
+      ],
+      "email": "info@sdc.ac.in",
+      "address": "Airport Road, Kenjar, Mangalore - 574142, Karnataka"
+    },
+    "keywords": [
+      "contact",
+      "phone",
+      "email",
+      "telephone",
+      "trust",
+      "office",
+      "address"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 10
+  },
+  {
+    "id": "testimonials.alumni",
+    "category": "testimonials",
+    "subcategory": "alumni",
+    "title": "Alumni Success Stories (8 Global Testimonials)",
+    "content": "SDIT alumni work globally in top companies. 1. Ashish John Sam (ECE) - Data Engineer, J.D. Power, Canada. 2. Divyashree R Bangera - AR Senior Associate, CapGemini India. 3. Mr. Nikhil K M (Civil & M.Tech CT) - Structural Engineer, GMZ Consultant, London. 4. Mehul Chandroliya (MCA) - Microsoft Power Platform SME, HSBC, UK. 5. Lt. Ravi L - Officer, Indian Navy, Vizag. 6. Bittu Jacob Sam (ECE) - Software Engineer, Etisalat (UAE Govt Telecom), UAE. 7. Nuthan J E - Software Development Engineer, Maveric Systems, Singapore. 8. Sujitha Poojari (CSE) - Data Analyst, Bank of New Zealand. Common themes: dedicated faculty, hands-on learning, state-of-the-art infrastructure, industry exposure.",
+    "facts": {
+      "countries": [
+        "Canada",
+        "UK",
+        "UAE",
+        "Singapore",
+        "New Zealand",
+        "India"
+      ],
+      "companies": [
+        "J.D. Power",
+        "CapGemini",
+        "GMZ Consultant",
+        "HSBC",
+        "Indian Navy",
+        "Etisalat",
+        "Maveric Systems",
+        "Bank of New Zealand"
+      ]
+    },
+    "keywords": [
+      "alumni",
+      "testimonials",
+      "success stories",
+      "placements abroad",
+      "global careers",
+      "student reviews"
+    ],
+    "source": "KB Expansance - Alumni Testimonials",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 8
+  },
+  {
+    "id": "contacts.links",
+    "category": "contacts",
+    "subcategory": "links",
+    "title": "Official Website Quick Links",
+    "content": "Home: https://sdit.ac.in/ | About: /about/ | Eligibility: /eligibility/ | Faculty: /faculty/ | Campus: /campus/ | Committees: /committees/ | Scholarship: /scholarship/ | Placement Training: /placement-training/ | Placement Companies: /placement-companies/ | Research Centre: /research-centrephd/ | NAAC: /naac/",
+    "facts": {},
+    "keywords": [
+      "website",
+      "links",
+      "URL",
+      "pages",
+      "site map"
+    ],
+    "source": "SDIT Official Website",
+    "source_url": "https://sdit.ac.in/",
+    "academic_year": "2025-26",
+    "is_historical": false,
+    "priority": 3
+  },
+  {
+    "id": "academics.mentoring",
+    "category": "academics",
+    "subcategory": "student_support",
+    "title": "Mentoring and Skill Development",
+    "content": "A mentor-mentee system monitors and motivates students, providing need-based counselling. Skill development covers soft skills, life skills, ICT, language proficiency, competitive training, and entrepreneurship. The SHAPE program focuses on Soft Skills, Human Values, Add-on courses, Personality Development, and Enhancing Technical Skills.",
+    "facts": {
+      "mentoring_system": true,
+      "shape_program": true
+    },
+    "keywords": [
+      "mentor",
+      "mentee",
+      "counselling",
+      "skill development",
+      "soft skills",
+      "SHAPE",
+      "personality development"
+    ],
+    "source": "SDIT SSR 2024",
+    "source_url": "https://sdit.ac.in/wp-content/uploads/2024/10/SSR.pdf",
+    "academic_year": "2024-25",
+    "is_historical": false,
+    "priority": 5
+  }
+]
